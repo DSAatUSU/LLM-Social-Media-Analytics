@@ -1,0 +1,3066 @@
+[
+  {
+    "user_id": "257319231",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "156677761",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "80492635",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "17921132",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "23630545",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Occupations",
+    "occupation_L3": "Broadcast Announcers and Radio Disc Jockeys",
+    "occupation_L4": "News Anchors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "24773565",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "75641981",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Political Science Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "617243",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Computer and Information Analysts",
+    "occupation_L4": "Data Scientists",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "2525695153",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Archivists, Curators, and Museum Technicians",
+    "occupation_L4": "Curators",
+    "interests_hobbies": "Attractions"
+  },
+  {
+    "user_id": "489872001",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Public Relations Specialists",
+    "occupation_L4": "Social Media Specialists",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "7120552",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "32147945",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Special Effects Artists and Animators",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "1241737627",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "23699310",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "42377905",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "790846916192002048",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Postsecondary Teachers",
+    "occupation_L4": "Postsecondary Teachers, All Other",
+    "interests_hobbies": "Education"
+  },
+  {
+    "user_id": "109143439",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "14594608",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Film and Video Editors and Camera Operators",
+    "occupation_L4": "Camera Operators, Television, Video, and Film",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "35084170",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "55750910",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "1846000920",
+    "occupation_L1": "Professional, Scientific, and Technical Services",
+    "occupation_L2": "Computer and Mathematical Occupations",
+    "occupation_L3": "Computer Occupations",
+    "occupation_L4": "Software Developers and Software Quality Assurance Analysts and Testers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "466884343",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "85647240",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Social Sciences Teachers, Postsecondary",
+    "interests_hobbies": "Disasters"
+  },
+  {
+    "user_id": "377607917",
+    "occupation_L1": "Sales and Related Occupations",
+    "occupation_L2": "Sales Representatives, Services",
+    "occupation_L3": "Advertising Sales Agents",
+    "occupation_L4": "Advertising Sales Agents",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "820440736336228352",
+    "occupation_L1": "Professional, Scientific, and Technical Services",
+    "occupation_L2": "Computer and Mathematical Occupations",
+    "occupation_L3": "Software and Web Developers, Programmers, and Testers",
+    "occupation_L4": "Software Developers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "105247925",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "16241389",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "7106252",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Communications Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "185594976",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "18669895",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "22207720",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "16893700",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Postsecondary Teachers",
+    "occupation_L4": "Computer Science Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "561722062",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Sociology Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "294471490",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Historians",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "287407012",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "1561572876",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Other Management Occupations",
+    "occupation_L4": "Farmers, Ranchers, and Other Agricultural Managers",
+    "interests_hobbies": "Pets"
+  },
+  {
+    "user_id": "22514881",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "718648514",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Athletes, Coaches, Umpires, and Related Workers",
+    "occupation_L4": "Athletes and Sports Competitors",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "787205",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "17099994",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Books and Literature"
+  },
+  {
+    "user_id": "322564915",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Environmental Science Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "872906797",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers, All Other",
+    "occupation_L4": "Media and Communication Workers, All Other",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "19157461",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "General and Operations Managers",
+    "occupation_L4": "General and Operations Managers",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "165681512",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "1363397682",
+    "occupation_L1": "Production Occupations",
+    "occupation_L2": "Assemblers and Fabricators",
+    "occupation_L3": "Assemblers and Fabricators",
+    "occupation_L4": "Team Assemblers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "79918010",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "25533281",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "30982521",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "242844365",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "348141153",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Preschool, Elementary, Middle, Secondary, and Special Education Teachers",
+    "occupation_L4": "Secondary School Teachers, Except Special and Career/Technical Education",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "89673430",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Top Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "16034084",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "272114504",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers, All Other",
+    "occupation_L4": "Models",
+    "interests_hobbies": "Style & Fashion"
+  },
+  {
+    "user_id": "87751622",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "59660769",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "216466925",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers, All Other",
+    "occupation_L4": "Media and Communication Workers, All Other",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "84873162",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Mathematical Science Teachers, Postsecondary",
+    "occupation_L4": "Mathematical Science Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "722214536460173312",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Mathematical Science Occupations",
+    "occupation_L3": "Data Scientists and Mathematical Science Occupations, All Other",
+    "occupation_L4": "Data Scientists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "301485075",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "22310284",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "94734906",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Entertainers and Performers, Sports and Related Workers, All Other",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "1009631790",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "218283576",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Other Management Occupations",
+    "occupation_L3": "Public Relations and Fundraising Managers",
+    "occupation_L4": "Public Relations and Fundraising Managers",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "171019742",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "3123269567",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Top Executives",
+    "occupation_L4": "Legislators",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "16191100",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Public Relations and Fundraising Managers",
+    "occupation_L4": "Public Relations and Fundraising Managers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "432574178",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Librarians, Curators, and Archivists",
+    "occupation_L4": "Curators",
+    "interests_hobbies": "Attractions"
+  },
+  {
+    "user_id": "15706260",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "2485761474",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "1714371",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Editors, Writers, and Authors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "67657364",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "65638162",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Computer Science Teachers, Postsecondary",
+    "occupation_L4": "Computer Science Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "170576651",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Automotive"
+  },
+  {
+    "user_id": "50387337",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers, All Other",
+    "occupation_L4": "Media and Communication Workers, All Other",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "17824785",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Software and Web Developers, Programmers, and Testers",
+    "occupation_L4": "Software Developers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "120098573",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Communications Teachers, Postsecondary",
+    "occupation_L4": "Communications Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "748993",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Graphic Designers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "18238469",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "20607358",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "18346587",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "19046613",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+    "occupation_L3": "Advertising and Promotions Managers",
+    "occupation_L4": "Advertising and Promotions Managers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "241280143",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Other Management Occupations",
+    "occupation_L4": "Public Relations and Fundraising Managers",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "47263677",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "80871637",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "3515085202",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "2163237510",
+    "occupation_L1": "Sales and Office Occupations",
+    "occupation_L2": "Office and Administrative Support Occupations",
+    "occupation_L3": "Customer Service Representatives",
+    "occupation_L4": "Customer Service Representatives",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "869414732",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Political Science Teachers, Postsecondary",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "1019707573",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Other Management Occupations",
+    "occupation_L4": "Public Relations and Fundraising Managers",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "255370956",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Dancers and Choreographers",
+    "occupation_L4": "Choreographers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "143981433",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Postsecondary Teachers",
+    "occupation_L4": "Computer Science Teachers, Postsecondary",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "1483011734",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "121486521",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "15258638",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "344574163",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Graphic Designers",
+    "interests_hobbies": "Fine Art"
+  },
+  {
+    "user_id": "1234092314",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Journalists",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "22258431",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "366711255",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "821690072",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "News Anchors",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "233600911",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "31761791",
+    "occupation_L1": "Office and Administrative Support Occupations",
+    "occupation_L2": "Financial Clerks",
+    "occupation_L3": "Customer Service Representatives",
+    "occupation_L4": "Customer Service Representatives",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "213708813",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "263284019",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Art Directors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "36057442",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "187800861",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "14903097",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Graphic Designers",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "69076672",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Biological Science Teachers, Postsecondary",
+    "occupation_L4": "Biological Science Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "53461892",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "News Anchors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "561653641",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Legislators",
+    "occupation_L4": "Legislators",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "41298896",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Broadcast Announcers and Radio Disc Jockeys",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "87914521",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Software Developers and Software Quality Assurance Analysts and Testers",
+    "occupation_L4": "Software Developers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "342089536",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "23092340",
+    "occupation_L1": "Community and Social Service Occupations",
+    "occupation_L2": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+    "occupation_L3": "Miscellaneous Community and Social Service Specialists",
+    "occupation_L4": "Social and Human Service Assistants",
+    "interests_hobbies": "Careers"
+  },
+  {
+    "user_id": "27920568",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "19178981",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "244249907",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "602126558",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "156148637",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "1569899551",
+    "occupation_L1": "Office and Administrative Support Occupations",
+    "occupation_L2": "Information and Record Clerks",
+    "occupation_L3": "Public Safety Telecommunicators",
+    "occupation_L4": "Public Safety Telecommunicators",
+    "interests_hobbies": "Automotive"
+  },
+  {
+    "user_id": "308180314",
+    "occupation_L1": "Accommodation and Food Services",
+    "occupation_L2": "Accommodation",
+    "occupation_L3": "Traveler Accommodation",
+    "occupation_L4": "Hotels (except Casino Hotels) and Motels",
+    "interests_hobbies": "Travel"
+  },
+  {
+    "user_id": "142389870",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers, All Other",
+    "occupation_L4": "Media and Communication Workers, All Other",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "366046157",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+    "occupation_L4": "Advertising and Promotions Managers",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "51968169",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Broadcast, Sound, and Video Technicians",
+    "occupation_L4": "Film and Video Editors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "10846402",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Journalists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "1684237219",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "94889299",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Photographers",
+    "occupation_L4": "Photographers",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "37782134",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "581448809",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "100728306",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Mathematical Science Teachers, Postsecondary",
+    "occupation_L4": "Mathematical Science Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "14392797",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Social Scientists and Related Workers",
+    "occupation_L3": "Miscellaneous Social Scientists and Related Workers",
+    "occupation_L4": "Social Scientists and Related Workers, All Other",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "407156211",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Education"
+  },
+  {
+    "user_id": "43112998",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "14957670",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "2532878582",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Preschool, Elementary, Middle, Secondary, and Special Education Teachers",
+    "occupation_L4": "Elementary School Teachers, Except Special Education",
+    "interests_hobbies": "Education"
+  },
+  {
+    "user_id": "19688841",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "22234423",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "29130652",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Public Relations Specialists",
+    "occupation_L4": "Public Relations Specialists",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "373526961",
+    "occupation_L1": "Sales and Related Occupations",
+    "occupation_L2": "Sales Representatives, Wholesale and Manufacturing",
+    "occupation_L3": "Sales Representatives, Wholesale and Manufacturing",
+    "occupation_L4": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+    "interests_hobbies": "Medical Health"
+  },
+  {
+    "user_id": "42171991",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Economics Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "10950002",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "208713501",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Archivists, Curators, and Museum Technicians",
+    "occupation_L4": "Curators",
+    "interests_hobbies": "Attractions"
+  },
+  {
+    "user_id": "5975712",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Computer and Information Systems Managers",
+    "occupation_L3": "Computer and Information Systems Managers",
+    "occupation_L4": "Computer and Information Systems Managers",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "2880157512",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "6273392",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "24183416",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Art Directors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "1090259881",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Video Game Designers",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "24016682",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Announcers",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "19034825",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Computer and Information Systems Managers",
+    "occupation_L3": "Computer and Information Systems Managers",
+    "occupation_L4": "Computer and Information Systems Managers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "50810344",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Sociology Teachers, Postsecondary",
+    "interests_hobbies": "Education"
+  },
+  {
+    "user_id": "103413137",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Communications Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "626532418",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "218265997",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Broadcast Announcers and Radio Disc Jockeys",
+    "occupation_L4": "Broadcast Announcers and Radio Disc Jockeys",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "47699335",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "5267",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Software Developers and Software Quality Assurance Analysts and Testers",
+    "occupation_L4": "Software Developers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "394122833",
+    "occupation_L1": "Community and Social Service Occupations",
+    "occupation_L2": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+    "occupation_L3": "Miscellaneous Community and Social Service Specialists",
+    "occupation_L4": "Community and Social Service Specialists, All Other",
+    "interests_hobbies": "Food & Drink"
+  },
+  {
+    "user_id": "3278810940",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "516676054",
+    "occupation_L1": "Protective Service Occupations",
+    "occupation_L2": "Other Protective Service Workers",
+    "occupation_L3": "Miscellaneous Protective Service Workers",
+    "occupation_L4": "Emergency Management Directors",
+    "interests_hobbies": "Disasters"
+  },
+  {
+    "user_id": "244881610",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Physical Scientists",
+    "occupation_L3": "Physicists",
+    "occupation_L4": "Physicists",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "3527826676",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "133388615",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "50598703",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "17601206",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "54089989",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "News Analysts, Reporters, and Journalists",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "6607712",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Engineering and Architecture Teachers, Postsecondary",
+    "occupation_L4": "Engineering Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "197463596",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Photographers",
+    "occupation_L4": "Photographers",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "2922243262",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Social Scientists and Related Workers",
+    "occupation_L3": "Miscellaneous Social Scientists and Related Workers",
+    "occupation_L4": "Social Scientists and Related Workers, All Other",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "150587813",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "342578839",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Computer and Information Research Scientists",
+    "occupation_L4": "Computer and Information Research Scientists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "11125672",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "24507343",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Entertainers and Performers, Sports and Related Workers, All Other",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "38721656",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "830421630",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "14329845",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers, All Other",
+    "occupation_L4": "Podcasters",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "24836750",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "25803229",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "2485690568",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Computer and Information Systems Managers",
+    "occupation_L3": "Computer and Information Systems Managers",
+    "occupation_L4": "Computer and Information Systems Managers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "23813151",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Directors- Stage, Motion Pictures, Television, and Radio",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "802660254",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "25074080",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Careers"
+  },
+  {
+    "user_id": "14638390",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "256627859",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Disc Jockeys, Except Radio",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "498525627",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Music Directors and Composers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "97210282",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Psychology Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "367169552",
+    "occupation_L1": "Protective Service Occupations",
+    "occupation_L2": "Law Enforcement Workers",
+    "occupation_L3": "Police Officers",
+    "occupation_L4": "Police and Sheriff's Patrol Officers",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "322965056",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "913479420",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "262404679",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "113507714",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Software and Web Developers, Programmers, and Testers",
+    "occupation_L4": "Software Developers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "188605723",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Athletes, Coaches, Umpires, and Related Workers",
+    "occupation_L4": "Athletes and Sports Competitors",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "6812252",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+    "occupation_L3": "Advertising and Promotions Managers",
+    "occupation_L4": "Advertising and Promotions Managers",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "361868777",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "News Anchors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "870364054044520448",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Life Scientists",
+    "occupation_L3": "Medical Scientists",
+    "occupation_L4": "Medical Scientists, Except Epidemiologists",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "41841330",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Mathematical Science Occupations",
+    "occupation_L3": "Operations Research Analysts",
+    "occupation_L4": "Operations Research Analysts",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "3405410860",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "18847946",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "27262634",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "19789893",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "General and Operations Managers",
+    "occupation_L4": "General and Operations Managers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "460724987",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Writers and Authors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "14254846",
+    "occupation_L1": "Community and Social Service Occupations",
+    "occupation_L2": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+    "occupation_L3": "Social Workers",
+    "occupation_L4": "Social Workers, All Other",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "803388384",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "90198630",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "552129635",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Other Educational Instruction and Library Occupations",
+    "occupation_L4": "Educational Instruction and Library Workers, All Other",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "822858",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "43217839",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Books and Literature"
+  },
+  {
+    "user_id": "78684440",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "767595480",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Disc Jockeys, Except Radio",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "257808866",
+    "occupation_L1": "Professional, Scientific, and Technical Services",
+    "occupation_L2": "Professional, Scientific, and Technical Services",
+    "occupation_L3": "Scientific Research and Development Services",
+    "occupation_L4": "Research and Development in the Social Sciences and Humanities",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "15670825",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "18126916",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "24967833",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "News Analysts, Reporters, and Journalists",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "6879522",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Arts, Communications, History, and Humanities Teachers, Postsecondary",
+    "occupation_L4": "English Language and Literature Teachers, Postsecondary",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "353778765",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Librarians, Curators, and Archivists",
+    "occupation_L4": "Curators",
+    "interests_hobbies": "Attractions"
+  },
+  {
+    "user_id": "182524220",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Other Management Occupations",
+    "occupation_L4": "Social and Community Service Managers",
+    "interests_hobbies": "Careers"
+  },
+  {
+    "user_id": "14033572",
+    "occupation_L1": "Professional, Scientific, and Technical Services",
+    "occupation_L2": "Computer and Mathematical Occupations",
+    "occupation_L3": "Computer Occupations",
+    "occupation_L4": "Software Developers and Software Quality Assurance Analysts and Testers",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "863174924",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Public Relations Specialists",
+    "occupation_L4": "Public Relations Specialists",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "1945245355",
+    "occupation_L1": "Professional, Scientific, and Technical Services",
+    "occupation_L2": "Computer and Mathematical Occupations",
+    "occupation_L3": "Computer Occupations",
+    "occupation_L4": "Data Scientists and Mathematical Science Occupations, All Other",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "41003348",
+    "occupation_L1": "Sales and Related Occupations",
+    "occupation_L2": "Sales Representatives, Services",
+    "occupation_L3": "Sales Representatives, Services, All Other",
+    "occupation_L4": "Sales Representatives, Services, All Other",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "9430302",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Computer Science Teachers, Postsecondary",
+    "occupation_L4": "Computer Science Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "20962380",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Occupations",
+    "occupation_L3": "Media and Communication Workers",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "150717602",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "1170901",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Librarians, Curators, and Archivists",
+    "occupation_L3": "Librarians and Media Collections Specialists",
+    "occupation_L4": "Librarians and Media Collections Specialists",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "22999437",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "1676430421",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Athletes, Coaches, Umpires, and Related Workers",
+    "occupation_L4": "Athletes and Sports Competitors",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "36937588",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Books and Literature"
+  },
+  {
+    "user_id": "194192756",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "1499417562",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "466098978",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "63157272",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "18343801",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "331195438",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "131253959",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "266083428",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "455015129",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Librarians, Curators, and Archivists",
+    "occupation_L4": "Curators",
+    "interests_hobbies": "Attractions"
+  },
+  {
+    "user_id": "213547872",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "1894347926",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "152972996",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "194122373",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "16805955",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "14518475",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "347731735",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "107007588",
+    "occupation_L1": "Management, Business, and Financial Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+    "occupation_L4": "Public Relations and Fundraising Managers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "247872134",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "2693267988",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Postsecondary Teachers",
+    "occupation_L4": "Postsecondary Teachers, All Other",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "236479336",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "549124799",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "1742581",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Hobbies & Interests"
+  },
+  {
+    "user_id": "55137824",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Mathematical Science Occupations",
+    "occupation_L3": "Data Scientists",
+    "occupation_L4": "Data Scientists",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "210803111",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "34247967",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Sociology Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "236622220",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "News Analysts, Reporters, and Journalists",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "54679779",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+    "occupation_L4": "Marketing Managers",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "21201403",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Business and Financial Operations Occupations",
+    "occupation_L3": "Business Operations Specialists",
+    "occupation_L4": "Human Resources Specialists",
+    "interests_hobbies": "Careers"
+  },
+  {
+    "user_id": "1962891",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Editors",
+    "occupation_L4": "Film and Video Editors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "39125788",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Business Teachers, Postsecondary",
+    "occupation_L4": "Business Teachers, Postsecondary",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "217751484",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Social Scientists and Related Workers",
+    "occupation_L3": "Urban and Regional Planners",
+    "occupation_L4": "Urban and Regional Planners",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "33589345",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "37799209",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "15126852",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "90122464",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "15290966",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Physical Scientists",
+    "occupation_L3": "Astronomers and Physicists",
+    "occupation_L4": "Astronomers",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "3024546301",
+    "occupation_L1": "Protective Service Occupations",
+    "occupation_L2": "Firefighting and Prevention Workers",
+    "occupation_L3": "Firefighters",
+    "occupation_L4": "Firefighters",
+    "interests_hobbies": "Disasters"
+  },
+  {
+    "user_id": "140283622",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "115462071",
+    "occupation_L1": "Sales and Related Occupations",
+    "occupation_L2": "Retail Sales Workers",
+    "occupation_L3": "Retail Salespersons",
+    "occupation_L4": "Retail Salespersons",
+    "interests_hobbies": "Home & Garden"
+  },
+  {
+    "user_id": "1969265186",
+    "occupation_L1": "Protective Service Occupations",
+    "occupation_L2": "Law Enforcement Workers",
+    "occupation_L3": "Police Officers",
+    "occupation_L4": "Police and Sheriff's Patrol Officers",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "781381",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+    "occupation_L3": "Marketing and Sales Managers",
+    "occupation_L4": "Marketing Managers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "524559905",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Video Game Designers",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "2179748564",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "23806365",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "8309142",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Announcers",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "3001180319",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+    "occupation_L4": "Marketing Managers",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "71604006",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "306937691",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers, All Other",
+    "occupation_L4": "Media and Communication Workers, All Other",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "19783070",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "News Analysts, Reporters, and Journalists",
+    "interests_hobbies": "Careers"
+  },
+  {
+    "user_id": "247587991",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "327046834",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Other Management Occupations",
+    "occupation_L4": "Investment Fund Managers",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "187092357",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "22859097",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "2190601830",
+    "occupation_L1": "Community and Social Service Occupations",
+    "occupation_L2": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+    "occupation_L3": "Miscellaneous Community and Social Service Specialists",
+    "occupation_L4": "Social and Human Service Assistants",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "209980556",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Medical Health"
+  },
+  {
+    "user_id": "9864482",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "2618731",
+    "occupation_L1": "Professional, Scientific, and Technical Services",
+    "occupation_L2": "Computer and Mathematical Occupations",
+    "occupation_L3": "Computer Occupations",
+    "occupation_L4": "Computer and Information Research Scientists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "16007952",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers, All Other",
+    "occupation_L4": "Media and Communication Workers, All Other",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "387158474",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "118229983",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Business Teachers, Postsecondary",
+    "occupation_L4": "Business Teachers, Postsecondary",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "11584302",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "226470791",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "27968412",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Public Relations Specialists",
+    "occupation_L4": "Public Relations Specialists",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "44305009",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "557296751",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "40371780",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Crime"
+  },
+  {
+    "user_id": "632091735",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Mathematical Science Occupations",
+    "occupation_L3": "Operations Research Analysts",
+    "occupation_L4": "Operations Research Analysts",
+    "interests_hobbies": "Careers"
+  },
+  {
+    "user_id": "415208626",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "46491252",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "1077238980",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Books and Literature"
+  },
+  {
+    "user_id": "17008394",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "28359290",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "14767656",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "524354854",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Biological Science Teachers, Postsecondary",
+    "occupation_L4": "Biological Science Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "2357562974",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Style & Fashion"
+  },
+  {
+    "user_id": "1149559219",
+    "occupation_L1": "Professional, Scientific, and Technical Services",
+    "occupation_L2": "Scientific Research and Development Services",
+    "occupation_L3": "Research and Development in the Social Sciences and Humanities",
+    "occupation_L4": "Social Science Research Assistants",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "96268540",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Information Security Analysts",
+    "occupation_L4": "Information Security Analysts",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "755239094",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "267803982",
+    "occupation_L1": "Sales and Related Occupations",
+    "occupation_L2": "Sales Representatives, Wholesale and Manufacturing",
+    "occupation_L3": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+    "occupation_L4": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "19054333",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "21362441",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "12423522",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "19593954",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "592055080",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Books and Literature"
+  },
+  {
+    "user_id": "111417386",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Computer and Information Systems Managers",
+    "occupation_L3": "Computer and Information Systems Managers",
+    "occupation_L4": "Computer and Information Systems Managers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "3068046988",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Computer Science Teachers, Postsecondary",
+    "occupation_L4": "Computer Science Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "616219267",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Sociology Teachers, Postsecondary",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "15659409",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Political Science Teachers, Postsecondary",
+    "interests_hobbies": "Education"
+  },
+  {
+    "user_id": "6637352",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Physical Scientists",
+    "occupation_L3": "Physicists",
+    "occupation_L4": "Physicists",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "21067835",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Web Developers and Digital Interface Designers",
+    "occupation_L4": "Web Developers",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "35316765",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "108410287",
+    "occupation_L1": "Healthcare Practitioners and Technical Occupations",
+    "occupation_L2": "Health Technologists and Technicians",
+    "occupation_L3": "Emergency Medical Technicians and Paramedics",
+    "occupation_L4": "Emergency Medical Technicians and Paramedics",
+    "interests_hobbies": "Disasters"
+  },
+  {
+    "user_id": "112879959",
+    "occupation_L1": "Legal Occupations",
+    "occupation_L2": "Lawyers, Judges, and Related Workers",
+    "occupation_L3": "Judges, Magistrates, and Other Judicial Workers",
+    "occupation_L4": "Judges, Magistrate Judges, and Magistrates",
+    "interests_hobbies": "Law"
+  },
+  {
+    "user_id": "128769515",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Music Directors and Composers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "1477577485",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Life, Physical, and Social Science Occupations",
+    "occupation_L3": "Physical Scientists",
+    "occupation_L4": "Physicists",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "192986664",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Other Management Occupations",
+    "occupation_L4": "Legislators",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "260529993",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "15103898",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "16729561",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "255666549",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "716576919328841728",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Physical Scientists",
+    "occupation_L3": "Atmospheric and Space Scientists",
+    "occupation_L4": "Atmospheric and Space Scientists",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "1904771",
+    "occupation_L1": "Community and Social Service Occupations",
+    "occupation_L2": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+    "occupation_L3": "Counselors",
+    "occupation_L4": "Educational, Guidance, and Career Counselors and Advisors",
+    "interests_hobbies": "Careers"
+  },
+  {
+    "user_id": "60664331",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Engineering and Architecture Teachers, Postsecondary",
+    "occupation_L4": "Engineering Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "211004186",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "421251790",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Fine Art"
+  },
+  {
+    "user_id": "515322065",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Sociology Teachers, Postsecondary",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "137150858",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Business and Financial Operations Occupations",
+    "occupation_L3": "Business Operations Specialists",
+    "occupation_L4": "Market Research Analysts and Marketing Specialists",
+    "interests_hobbies": "Style & Fashion"
+  },
+  {
+    "user_id": "21457241",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Occupations",
+    "occupation_L3": "Media and Communication Workers",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "52309870",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Computer and Information Systems Managers",
+    "occupation_L3": "Computer and Information Systems Managers",
+    "occupation_L4": "Computer and Information Systems Managers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "268130237",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "15614135",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "593386788",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "352143631",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "News Anchors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "2643656468",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "707187616249225216",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "1002841207",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Physical Scientists",
+    "occupation_L3": "Geoscientists",
+    "occupation_L4": "Geoscientists, Except Hydrologists and Geographers",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "17575777",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Graphic Designers",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "201751126",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "62916390",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "29193463",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Social Sciences Teachers, Postsecondary",
+    "occupation_L4": "Sociology Teachers, Postsecondary",
+    "interests_hobbies": "Education"
+  },
+  {
+    "user_id": "16157640",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "34597615",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Photographers",
+    "occupation_L4": "Photographers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "705401185851805696",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Postsecondary Teachers",
+    "occupation_L3": "Mathematical Science Teachers, Postsecondary",
+    "occupation_L4": "Mathematical Science Teachers, Postsecondary",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "33980139",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Music Directors and Composers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "109006566",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "3305994116",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Business and Finance"
+  },
+  {
+    "user_id": "6147252",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Graphic Designers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "144259211",
+    "occupation_L1": "Protective Service Occupations",
+    "occupation_L2": "Other Protective Service Workers",
+    "occupation_L3": "Miscellaneous Protective Service Workers",
+    "occupation_L4": "Emergency Management Directors",
+    "interests_hobbies": "Disasters"
+  },
+  {
+    "user_id": "228241061",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Social Science Occupations",
+    "occupation_L3": "Miscellaneous Social Scientists and Related Workers",
+    "occupation_L4": "Social Scientists and Related Workers, All Other",
+    "interests_hobbies": "Medical Health"
+  },
+  {
+    "user_id": "164710380",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Athletes, Coaches, Umpires, and Related Workers",
+    "occupation_L4": "Athletes and Sports Competitors",
+    "interests_hobbies": "Sports"
+  },
+  {
+    "user_id": "27979212",
+    "occupation_L1": "Professional, Scientific, and Technical Services",
+    "occupation_L2": "Computer and Mathematical Occupations",
+    "occupation_L3": "Computer Occupations",
+    "occupation_L4": "Information Security Analysts",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "205782791",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "1707937789",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Education"
+  },
+  {
+    "user_id": "14120402",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+    "occupation_L3": "Public Relations and Fundraising Managers",
+    "occupation_L4": "Public Relations and Fundraising Managers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "80193497",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Artists and Related Workers",
+    "occupation_L4": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+    "interests_hobbies": "Fine Art"
+  },
+  {
+    "user_id": "14596583",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Correspondents",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "711943898",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "Reporters and Journalists",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "16084074",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Video Gaming"
+  },
+  {
+    "user_id": "1719628118",
+    "occupation_L1": "Education, Training, and Library Occupations",
+    "occupation_L2": "Educational Instruction and Library Occupations",
+    "occupation_L3": "Other Educational Instruction and Library Occupations",
+    "occupation_L4": "Instructional Coordinators",
+    "interests_hobbies": "Science"
+  },
+  {
+    "user_id": "12389212",
+    "occupation_L1": "Sales and Related Occupations",
+    "occupation_L2": "Sales Representatives, Services",
+    "occupation_L3": "Sales Representatives, Services, All Other",
+    "occupation_L4": "Sales Representatives, Services, All Other",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "15727192",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L4": "Radio and Television Announcers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "3301254779",
+    "occupation_L1": "Management Occupations",
+    "occupation_L2": "Top Executives",
+    "occupation_L3": "Chief Executives",
+    "occupation_L4": "Chief Executives",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "822030",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Arts and Design Workers",
+    "occupation_L3": "Designers",
+    "occupation_L4": "Graphic Designers",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "12284932",
+    "occupation_L1": "Management, Business, Science, and Arts Occupations",
+    "occupation_L2": "Management Occupations",
+    "occupation_L3": "Other Management Occupations",
+    "occupation_L4": "Legislators",
+    "interests_hobbies": "Politics"
+  },
+  {
+    "user_id": "22149286",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "33581575",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Actors, Producers, and Directors",
+    "occupation_L4": "Actors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "258299086",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "News Analysts, Reporters, and Journalists",
+    "occupation_L4": "News Analysts, Reporters, and Journalists",
+    "interests_hobbies": "Communication"
+  },
+  {
+    "user_id": "20798466",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "4877558602",
+    "occupation_L1": "Professional and Related Occupations",
+    "occupation_L2": "Computer and Mathematical Occupations",
+    "occupation_L3": "Computer Occupations",
+    "occupation_L4": "Computer and Information Analysts",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "14096558",
+    "occupation_L1": "Sales and Related Occupations",
+    "occupation_L2": "Retail Sales Workers",
+    "occupation_L3": "Retail Salespersons",
+    "occupation_L4": "Retail Salespersons",
+    "interests_hobbies": "Books and Literature"
+  },
+  {
+    "user_id": "448028587",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers",
+    "occupation_L4": "Editors",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "41645740",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Media and Communication Workers, All Other",
+    "occupation_L4": "Media and Communication Workers, All Other",
+    "interests_hobbies": "Pop Culture"
+  },
+  {
+    "user_id": "23707156",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "417164775",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Occupations",
+    "occupation_L3": "Producers and Directors",
+    "occupation_L4": "Producers and Directors",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "16389705",
+    "occupation_L1": "Life, Physical, and Social Science Occupations",
+    "occupation_L2": "Social Scientists and Related Workers",
+    "occupation_L3": "Anthropologists and Archeologists",
+    "occupation_L4": "Anthropologists and Archeologists",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "780768327639502848",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Computer and Information Analysts",
+    "occupation_L4": "Data Scientists and Mathematical Science Occupations, All Other",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "793023",
+    "occupation_L1": "Computer and Mathematical Occupations",
+    "occupation_L2": "Computer Occupations",
+    "occupation_L3": "Software Developers and Software Quality Assurance Analysts and Testers",
+    "occupation_L4": "Software Developers",
+    "interests_hobbies": "Technology & Computing"
+  },
+  {
+    "user_id": "13705452",
+    "occupation_L1": "Professional, Scientific, and Technical Services",
+    "occupation_L2": "Legal Occupations",
+    "occupation_L3": "Lawyers, Judges, and Related Workers",
+    "occupation_L4": "Lawyers",
+    "interests_hobbies": "Law"
+  },
+  {
+    "user_id": "188313254",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Entertainers and Performers, Sports and Related Workers",
+    "occupation_L3": "Musicians, Singers, and Related Workers",
+    "occupation_L4": "Musicians and Singers",
+    "interests_hobbies": "Entertainment"
+  },
+  {
+    "user_id": "16143991",
+    "occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "occupation_L2": "Media and Communication Workers",
+    "occupation_L3": "Writers and Editors",
+    "occupation_L4": "Writers and Authors",
+    "interests_hobbies": "Hobbies & Interests"
+  }
+]

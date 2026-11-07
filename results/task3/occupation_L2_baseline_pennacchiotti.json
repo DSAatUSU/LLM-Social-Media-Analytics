@@ -1,0 +1,3935 @@
+{
+  "metrics": {
+    "openai": {
+      "accuracy": 0.5613577023498695,
+      "f1_score": 0.515067447535695
+    },
+    "gemini": {
+      "accuracy": 0.618798955613577,
+      "f1_score": 0.608395428186551
+    },
+    "ollama": {
+      "accuracy": 0.02610966057441253,
+      "f1_score": 0.013529755044115356
+    },
+    "deepseek": {
+      "accuracy": 0.5718015665796344,
+      "f1_score": 0.5153066849248521
+    },
+    "pennacchiotti_baseline": {
+      "split": "80/20 random (no stratify)",
+      "accuracy": 0.3246753246753247,
+      "f1_score": 0.3212430426716141,
+      "balanced_accuracy": 0.1236111111111111
+    }
+  },
+  "results": [
+    {
+      "user_id": "257319231",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "156677761",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "80492635",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "17921132",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Computer and Information Systems Managers",
+        "gemini": "Management Occupations",
+        "ollama": "Computer Occupations",
+        "deepseek": "Computer and Information Systems Managers",
+        "pennacchiotti_baseline": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "23630545",
+      "ground_truth": "Media and Communication Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Public Relations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "24773565",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "pennacchiotti_baseline": "Top Executives"
+      }
+    },
+    {
+      "user_id": "75641981",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Social Science Occupations",
+        "gemini": "Social Scientists and Related Workers",
+        "ollama": "Researcher",
+        "deepseek": "Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "617243",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer Occupations",
+        "ollama": "Computer Occupations",
+        "deepseek": "Computer and Information Systems Managers"
+      }
+    },
+    {
+      "user_id": "2525695153",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Librarians, Curators, and Archivists",
+        "gemini": "Librarians, Curators, and Archivists",
+        "ollama": "Museum",
+        "deepseek": "Librarians, Curators, and Archivists"
+      }
+    },
+    {
+      "user_id": "489872001",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainer",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "7120552",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "32147945",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Arts and Design Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "1241737627",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Sports and Related Workers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "23699310",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "42377905",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Scientist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "790846916192002048",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Educational Instruction and Library Occupations",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Science",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "pennacchiotti_baseline": "Postsecondary Teachers"
+      }
+    },
+    {
+      "user_id": "109143439",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "14594608",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "35084170",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "55750910",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Sports and Related Workers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1846000920",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer Occupations",
+        "ollama": "Data Analyst",
+        "deepseek": "Computer and Information Systems Managers"
+      }
+    },
+    {
+      "user_id": "466884343",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "85647240",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Computer Systems Engineer",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "377607917",
+      "ground_truth": "Sales Representatives, Services",
+      "predictions": {
+        "openai": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Marketing",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers"
+      }
+    },
+    {
+      "user_id": "820440736336228352",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Information Systems Managers",
+        "gemini": "Top Executives",
+        "ollama": "Technology",
+        "deepseek": "Computer and Information Systems Managers"
+      }
+    },
+    {
+      "user_id": "105247925",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Musician",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "16241389",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "7106252",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Postsecondary Teachers",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Researcher",
+        "deepseek": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "185594976",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Media and Communication Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "18669895",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "ollama": "Visual Artist/Music Video Director",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "22207720",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "16893700",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "ollama": "Computer Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "pennacchiotti_baseline": "Postsecondary Teachers"
+      }
+    },
+    {
+      "user_id": "561722062",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Social Science Occupations",
+        "gemini": "Social Scientists and Related Workers",
+        "ollama": "Software",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "294471490",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Media and Communication Occupations",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "287407012",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1561572876",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Other Management Occupations",
+        "gemini": "Other Management Occupations",
+        "ollama": "Accommodation, Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "22514881",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Actor",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "718648514",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "787205",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Computer Occupations",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "17099994",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Public Relations, Promotions, and Advertising Managers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "322564915",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Environmental Scientist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "872906797",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Screen Producers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "19157461",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Doctor",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Educational Instruction and Library Occupations"
+      }
+    },
+    {
+      "user_id": "165681512",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Finance",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1363397682",
+      "ground_truth": "Assemblers and Fabricators",
+      "predictions": {
+        "openai": "Sales Representatives, Wholesale and Manufacturing",
+        "gemini": "Sales Representatives, Services",
+        "ollama": "Software development",
+        "deepseek": "Computer and Information Systems Managers"
+      }
+    },
+    {
+      "user_id": "79918010",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "25533281",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "30982521",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "242844365",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Computer and Mathematical Occupations",
+        "ollama": "Computer Occupations",
+        "deepseek": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "348141153",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "89673430",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Politician",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "16034084",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist/Commentator",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "272114504",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "87751622",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "59660769",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Politician",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "216466925",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "84873162",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Mathematical Science Occupations",
+        "gemini": "Mathematical Science Occupations",
+        "ollama": "Mathematicians",
+        "deepseek": "Postsecondary Teachers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "722214536460173312",
+      "ground_truth": "Mathematical Science Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "ollama": "Data Scientist",
+        "deepseek": "Computer and Information Systems Managers",
+        "pennacchiotti_baseline": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "301485075",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Industrial Internet",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "22310284",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Media and Entertainment",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "94734906",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1009631790",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "218283576",
+      "ground_truth": "Other Management Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Accommodation, Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "171019742",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Media and Communication Occupations",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "3123269567",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Management Occupations",
+        "ollama": "Politician",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "16191100",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Other Management Occupations",
+        "gemini": "Management Occupations",
+        "ollama": "Computer Occupations",
+        "deepseek": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "432574178",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Librarians, Curators, and Archivists",
+        "gemini": "Librarians, Curators, and Archivists",
+        "ollama": "Historic House Museum",
+        "deepseek": "Librarians, Curators, and Archivists"
+      }
+    },
+    {
+      "user_id": "15706260",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "2485761474",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Management Occupations",
+        "ollama": "Diplomat",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1714371",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "67657364",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Law Enforcement Workers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "65638162",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Educational Instruction and Library Occupations",
+        "ollama": "Computer Science",
+        "deepseek": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "170576651",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "50387337",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers"
+      }
+    },
+    {
+      "user_id": "17824785",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Computer Occupations",
+        "gemini": "Computer Occupations",
+        "ollama": "Computer Occupations",
+        "deepseek": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "120098573",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Educational Instruction and Library Occupations",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Journalist",
+        "deepseek": "Educational Instruction and Library Occupations"
+      }
+    },
+    {
+      "user_id": "748993",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "18238469",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "20607358",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "18346587",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "19046613",
+      "ground_truth": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "241280143",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "47263677",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "80871637",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Uncategorized",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "3515085202",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "2163237510",
+      "ground_truth": "Office and Administrative Support Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Computer Occupations",
+        "ollama": "moderator",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "869414732",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Social Science Occupations",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Politician",
+        "deepseek": "Social Scientists and Related Workers"
+      }
+    },
+    {
+      "user_id": "1019707573",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Politician",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "255370956",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Dancer",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "143981433",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Educational Instruction and Library Occupations",
+        "gemini": "Computer Occupations",
+        "ollama": "Scientist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1483011734",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist/Reporter",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "121486521",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "15258638",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Sports Commentator",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "344574163",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Arts and Design Workers",
+        "gemini": "Arts and Design Workers",
+        "ollama": "Artist",
+        "deepseek": "Arts and Design Workers",
+        "pennacchiotti_baseline": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "1234092314",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "22258431",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "366711255",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Public Relations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "821690072",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "233600911",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "31761791",
+      "ground_truth": "Financial Clerks",
+      "predictions": {
+        "openai": "Information and Record Clerks",
+        "gemini": "Office and Administrative Support Occupations",
+        "ollama": "Customer Service Representative",
+        "deepseek": "Business and Financial Operations Occupations"
+      }
+    },
+    {
+      "user_id": "213708813",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "263284019",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "36057442",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Music",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "187800861",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "14903097",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "69076672",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Physicist",
+        "deepseek": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "53461892",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Top Executives",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "561653641",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Management Occupations",
+        "gemini": "Top Executives",
+        "ollama": "Politician",
+        "deepseek": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "41298896",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Musician",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "87914521",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Software Engineer",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "342089536",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Occupations",
+        "ollama": "Economics",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "23092340",
+      "ground_truth": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "27920568",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist/Entertainment Reporter",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "19178981",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainer",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "244249907",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "602126558",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Celebrity",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "156148637",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1569899551",
+      "ground_truth": "Information and Record Clerks",
+      "predictions": {
+        "openai": "Management Occupations",
+        "gemini": "Other Management Occupations",
+        "ollama": "Transport Official",
+        "deepseek": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "308180314",
+      "ground_truth": "Accommodation",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "142389870",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "366046157",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Digital",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers"
+      }
+    },
+    {
+      "user_id": "51968169",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "10846402",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1684237219",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "94889299",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "entertainer",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "37782134",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "581448809",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Sports",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "100728306",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Postsecondary Teachers",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Educational Instruction and Library Occupations"
+      }
+    },
+    {
+      "user_id": "14392797",
+      "ground_truth": "Social Scientists and Related Workers",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer Occupations",
+        "ollama": "Computer Occupations",
+        "deepseek": "Computer and Information Systems Managers"
+      }
+    },
+    {
+      "user_id": "407156211",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Education",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "43112998",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Media and Communication Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "14957670",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Computer and Information Systems Managers",
+        "gemini": "Top Executives",
+        "ollama": "Computer Occupations",
+        "deepseek": "Computer and Information Systems Managers"
+      }
+    },
+    {
+      "user_id": "2532878582",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Librarians, Curators, and Archivists",
+        "gemini": "Librarians, Curators, and Archivists",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Librarians, Curators, and Archivists"
+      }
+    },
+    {
+      "user_id": "19688841",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "ollama": "Animation",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "22234423",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "29130652",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "373526961",
+      "ground_truth": "Sales Representatives, Wholesale and Manufacturing",
+      "predictions": {
+        "openai": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Healthcare Professionals",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers"
+      }
+    },
+    {
+      "user_id": "42171991",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Data Scientist",
+        "deepseek": "Computer and Mathematical Occupations",
+        "pennacchiotti_baseline": "Postsecondary Teachers"
+      }
+    },
+    {
+      "user_id": "10950002",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "208713501",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Librarians, Curators, and Archivists",
+        "gemini": "Librarians, Curators, and Archivists",
+        "ollama": "Historic Preservation",
+        "deepseek": "Librarians, Curators, and Archivists",
+        "pennacchiotti_baseline": "Postsecondary Teachers"
+      }
+    },
+    {
+      "user_id": "5975712",
+      "ground_truth": "Computer and Information Systems Managers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Management Occupations",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "2880157512",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "6273392",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "24183416",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1090259881",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Programmer",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "24016682",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "19034825",
+      "ground_truth": "Computer and Information Systems Managers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Computer Occupations",
+        "ollama": "Computer Science",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "50810344",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Postsecondary Teachers",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Social/Behavioral Sciences",
+        "deepseek": "Social Scientists and Related Workers"
+      }
+    },
+    {
+      "user_id": "103413137",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Educational Instruction and Library Occupations",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Academic/Researcher",
+        "deepseek": "Educational Instruction and Library Occupations"
+      }
+    },
+    {
+      "user_id": "626532418",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainer",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "218265997",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "47699335",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "5267",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Computer Occupations",
+        "ollama": "Politics",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "394122833",
+      "ground_truth": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+      "predictions": {
+        "openai": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+        "gemini": "Other Management Occupations",
+        "ollama": "Farmer/Farming",
+        "deepseek": "Community and Social Service Specialists"
+      }
+    },
+    {
+      "user_id": "3278810940",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "516676054",
+      "ground_truth": "Other Protective Service Workers",
+      "predictions": {
+        "openai": "Other Protective Service Workers",
+        "gemini": "Firefighting and Prevention Workers",
+        "ollama": "Emergency Management",
+        "deepseek": "Firefighting and Prevention Workers"
+      }
+    },
+    {
+      "user_id": "244881610",
+      "ground_truth": "Physical Scientists",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Physical Scientists",
+        "ollama": "Computer Occupations",
+        "deepseek": "Physical Scientists"
+      }
+    },
+    {
+      "user_id": "3527826676",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "133388615",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Media and Communication Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "50598703",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "17601206",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "54089989",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "6607712",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Postsecondary Teachers",
+        "ollama": "Computer Occupations",
+        "deepseek": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "197463596",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "deepseek": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "2922243262",
+      "ground_truth": "Social Scientists and Related Workers",
+      "predictions": {
+        "openai": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+        "gemini": "Social Scientists and Related Workers",
+        "ollama": "Social Justice Activist",
+        "deepseek": "Social Scientists and Related Workers"
+      }
+    },
+    {
+      "user_id": "150587813",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "342578839",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer Occupations",
+        "deepseek": "Computer Occupations",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "11125672",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Media and Communication Occupations",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "24507343",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainer/TV Personality"
+      }
+    },
+    {
+      "user_id": "38721656",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Educational Instruction and Library Occupations",
+        "gemini": "Educational Instruction and Library Occupations",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "830421630",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "14329845",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "24836750",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "25803229",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist/Radio Host"
+      }
+    },
+    {
+      "user_id": "2485690568",
+      "ground_truth": "Computer and Information Systems Managers",
+      "predictions": {
+        "openai": "Media and Communication Occupations",
+        "gemini": "Media and Communication Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entrepreneur"
+      }
+    },
+    {
+      "user_id": "23813151",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "pennacchiotti_baseline": "Postsecondary Teachers"
+      }
+    },
+    {
+      "user_id": "802660254",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "25074080",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "14638390",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "256627859",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "DJ"
+      }
+    },
+    {
+      "user_id": "498525627",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "97210282",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Social Science Occupations",
+        "deepseek": "Social Scientists and Related Workers",
+        "ollama": "Journalism",
+        "pennacchiotti_baseline": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "367169552",
+      "ground_truth": "Law Enforcement Workers",
+      "predictions": {
+        "openai": "Law Enforcement Workers",
+        "gemini": "Other Protective Service Workers",
+        "deepseek": "Law Enforcement Workers",
+        "ollama": "Law Enforcement"
+      }
+    },
+    {
+      "user_id": "322965056",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Other Protective Service Workers"
+      }
+    },
+    {
+      "user_id": "913479420",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "News Anchor"
+      }
+    },
+    {
+      "user_id": "262404679",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "113507714",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Computer Occupations",
+        "gemini": "Computer Occupations",
+        "deepseek": "Computer Occupations",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "188605723",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "6812252",
+      "ground_truth": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "361868777",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Top Executives"
+      }
+    },
+    {
+      "user_id": "870364054044520448",
+      "ground_truth": "Life Scientists",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Scientific Research and Development Services",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Scientist"
+      }
+    },
+    {
+      "user_id": "41841330",
+      "ground_truth": "Mathematical Science Occupations",
+      "predictions": {
+        "openai": "Social Scientists and Related Workers",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Sociologist"
+      }
+    },
+    {
+      "user_id": "3405410860",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Management Occupations",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Management Occupations",
+        "ollama": "Engineer"
+      }
+    },
+    {
+      "user_id": "18847946",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "27262634",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "19789893",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Film Director",
+        "pennacchiotti_baseline": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "460724987",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "14254846",
+      "ground_truth": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "803388384",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "90198630",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "552129635",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Educational Instruction and Library Occupations",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "ollama": "Educator"
+      }
+    },
+    {
+      "user_id": "822858",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Computer Occupations",
+        "gemini": "Computer Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "43217839",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalism"
+      }
+    },
+    {
+      "user_id": "78684440",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "767595480",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Software Developer"
+      }
+    },
+    {
+      "user_id": "257808866",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Market Research Analysts and Marketing Specialists",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Information Technology"
+      }
+    },
+    {
+      "user_id": "15670825",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "18126916",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Other Protective Service Workers"
+      }
+    },
+    {
+      "user_id": "24967833",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Public Relations"
+      }
+    },
+    {
+      "user_id": "6879522",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "353778765",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Librarians, Curators, and Archivists",
+        "gemini": "Librarians, Curators, and Archivists",
+        "deepseek": "Librarians, Curators, and Archivists",
+        "ollama": "Museum Professional",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "182524220",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Business and Financial Operations Occupations",
+        "gemini": "Management Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Future of Work"
+      }
+    },
+    {
+      "user_id": "14033572",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Ecommerce transformation"
+      }
+    },
+    {
+      "user_id": "863174924",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "1945245355",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Scientific Research and Development Services",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Government Official"
+      }
+    },
+    {
+      "user_id": "41003348",
+      "ground_truth": "Sales Representatives, Services",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Accommodation, Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "9430302",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Educational Instruction and Library Occupations",
+        "gemini": "Postsecondary Teachers",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "20962380",
+      "ground_truth": "Media and Communication Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "150717602",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "1170901",
+      "ground_truth": "Librarians, Curators, and Archivists",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "22999437",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "1676430421",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "36937588",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Media and Communication Occupations"
+      }
+    },
+    {
+      "user_id": "194192756",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist/Writer"
+      }
+    },
+    {
+      "user_id": "1499417562",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "466098978",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "63157272",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Technology"
+      }
+    },
+    {
+      "user_id": "18343801",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "331195438",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "131253959",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "266083428",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Teacher"
+      }
+    },
+    {
+      "user_id": "455015129",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Librarians, Curators, and Archivists",
+        "gemini": "Librarians, Curators, and Archivists",
+        "deepseek": "Librarians, Curators, and Archivists",
+        "ollama": "Historian",
+        "pennacchiotti_baseline": "Educational Instruction and Library Occupations"
+      }
+    },
+    {
+      "user_id": "213547872",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "1894347926",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Public Relations",
+        "pennacchiotti_baseline": "Sales Representatives, Services"
+      }
+    },
+    {
+      "user_id": "152972996",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "194122373",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "16805955",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "14518475",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Computer and Information Systems Managers",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Entrepreneur/Founder"
+      }
+    },
+    {
+      "user_id": "347731735",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers",
+        "pennacchiotti_baseline": "Top Executives"
+      }
+    },
+    {
+      "user_id": "107007588",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Entrepreneur"
+      }
+    },
+    {
+      "user_id": "247872134",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "2693267988",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Scientific Research and Development Services",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Researcher"
+      }
+    },
+    {
+      "user_id": "236479336",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Law Enforcement Workers"
+      }
+    },
+    {
+      "user_id": "549124799",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Film Director"
+      }
+    },
+    {
+      "user_id": "1742581",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Arts and Design Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Photography"
+      }
+    },
+    {
+      "user_id": "55137824",
+      "ground_truth": "Mathematical Science Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Information Systems Managers",
+        "ollama": "Data Science",
+        "pennacchiotti_baseline": "Postsecondary Teachers"
+      }
+    },
+    {
+      "user_id": "210803111",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "34247967",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Postsecondary Teachers",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Researcher",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "236622220",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "News Anchor"
+      }
+    },
+    {
+      "user_id": "54679779",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Media and Communication Occupations",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "21201403",
+      "ground_truth": "Business and Financial Operations Occupations",
+      "predictions": {
+        "openai": "Business and Financial Operations Occupations",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Management Occupations",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1962891",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "39125788",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Postsecondary Teachers",
+        "gemini": "Postsecondary Teachers",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "ollama": "Entrepreneur"
+      }
+    },
+    {
+      "user_id": "217751484",
+      "ground_truth": "Social Scientists and Related Workers",
+      "predictions": {
+        "openai": "Social Science Occupations",
+        "gemini": "Social Scientists and Related Workers",
+        "deepseek": "Social Scientists and Related Workers",
+        "ollama": "Researcher"
+      }
+    },
+    {
+      "user_id": "33589345",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Top Executives"
+      }
+    },
+    {
+      "user_id": "37799209",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "15126852",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "90122464",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Public Relations"
+      }
+    },
+    {
+      "user_id": "15290966",
+      "ground_truth": "Physical Scientists",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Physical Scientists",
+        "deepseek": "Physical Scientists",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "3024546301",
+      "ground_truth": "Firefighting and Prevention Workers",
+      "predictions": {
+        "openai": "Firefighting and Prevention Workers",
+        "gemini": "Firefighting and Prevention Workers",
+        "deepseek": "Firefighting and Prevention Workers",
+        "ollama": "Firefighter"
+      }
+    },
+    {
+      "user_id": "140283622",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "115462071",
+      "ground_truth": "Retail Sales Workers",
+      "predictions": {
+        "openai": "Retail Sales Workers",
+        "gemini": "Retail Sales Workers",
+        "deepseek": "Retail Sales Workers",
+        "ollama": "Retail Trade",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "1969265186",
+      "ground_truth": "Law Enforcement Workers",
+      "predictions": {
+        "openai": "Law Enforcement Workers",
+        "gemini": "Law Enforcement Workers",
+        "deepseek": "Law Enforcement Workers",
+        "ollama": "Uncategorized",
+        "pennacchiotti_baseline": "Other Protective Service Workers"
+      }
+    },
+    {
+      "user_id": "781381",
+      "ground_truth": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "524559905",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "2179748564",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "23806365",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "8309142",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "3001180319",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Business/Management",
+        "pennacchiotti_baseline": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "71604006",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "306937691",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "19783070",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalists and News Analysts"
+      }
+    },
+    {
+      "user_id": "247587991",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "327046834",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Business and Financial Operations Occupations",
+        "gemini": "Business and Financial Operations Occupations",
+        "deepseek": "Business and Financial Operations Occupations",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "187092357",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "22859097",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "2190601830",
+      "ground_truth": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+      "predictions": {
+        "openai": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Activist"
+      }
+    },
+    {
+      "user_id": "209980556",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Information Systems Managers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Healthcare"
+      }
+    },
+    {
+      "user_id": "9864482",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Technology"
+      }
+    },
+    {
+      "user_id": "2618731",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Marketing"
+      }
+    },
+    {
+      "user_id": "16007952",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalism"
+      }
+    },
+    {
+      "user_id": "387158474",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "118229983",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Marketing",
+        "gemini": "Postsecondary Teachers",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "ollama": "Marketing"
+      }
+    },
+    {
+      "user_id": "11584302",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Celebrity",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "226470791",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "27968412",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "44305009",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "557296751",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "40371780",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "politics"
+      }
+    },
+    {
+      "user_id": "632091735",
+      "ground_truth": "Mathematical Science Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Scientific Research and Development Services",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Information Security"
+      }
+    },
+    {
+      "user_id": "415208626",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Health Writer"
+      }
+    },
+    {
+      "user_id": "46491252",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainer"
+      }
+    },
+    {
+      "user_id": "1077238980",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Politician"
+      }
+    },
+    {
+      "user_id": "17008394",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "28359290",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "14767656",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "524354854",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Postsecondary Teachers",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Researcher"
+      }
+    },
+    {
+      "user_id": "2357562974",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "1149559219",
+      "ground_truth": "Scientific Research and Development Services",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Social Scientists and Related Workers",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Data Scientist"
+      }
+    },
+    {
+      "user_id": "96268540",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Computer Occupations",
+        "gemini": "Computer Occupations",
+        "deepseek": "Computer Occupations",
+        "ollama": "Computer Occupations",
+        "pennacchiotti_baseline": "Entertainers and Performers, Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "755239094",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Uncategorized"
+      }
+    },
+    {
+      "user_id": "267803982",
+      "ground_truth": "Sales Representatives, Wholesale and Manufacturing",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Bikepacking"
+      }
+    },
+    {
+      "user_id": "19054333",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "21362441",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "12423522",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "19593954",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Media and Communication Occupations"
+      }
+    },
+    {
+      "user_id": "592055080",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "111417386",
+      "ground_truth": "Computer and Information Systems Managers",
+      "predictions": {
+        "openai": "Management Occupations",
+        "gemini": "Management Occupations",
+        "deepseek": "Management Occupations",
+        "ollama": "Software Engineer",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "3068046988",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Researcher"
+      }
+    },
+    {
+      "user_id": "616219267",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Social Science Occupations",
+        "gemini": "Social Science Occupations",
+        "deepseek": "Social Scientists and Related Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "15659409",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Educational Instruction and Library Occupations",
+        "gemini": "Postsecondary Teachers",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "ollama": "Government"
+      }
+    },
+    {
+      "user_id": "6637352",
+      "ground_truth": "Physical Scientists",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Social Scientists and Related Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Programmer"
+      }
+    },
+    {
+      "user_id": "21067835",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalists and News Analysts"
+      }
+    },
+    {
+      "user_id": "35316765",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Actor/Entertainer"
+      }
+    },
+    {
+      "user_id": "108410287",
+      "ground_truth": "Health Technologists and Technicians",
+      "predictions": {
+        "openai": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Health Technologists and Technicians"
+      }
+    },
+    {
+      "user_id": "112879959",
+      "ground_truth": "Lawyers, Judges, and Related Workers",
+      "predictions": {
+        "openai": "Legal Occupations",
+        "gemini": "Lawyers, Judges, and Related Workers",
+        "deepseek": "Lawyers, Judges, and Related Workers",
+        "ollama": "Law"
+      }
+    },
+    {
+      "user_id": "128769515",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "1477577485",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Physical Scientists",
+        "deepseek": "Physical Scientists",
+        "ollama": "Nuclear Engineer"
+      }
+    },
+    {
+      "user_id": "192986664",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Lawyers, Judges, and Related Workers",
+        "gemini": "Management Occupations",
+        "deepseek": "Management Occupations",
+        "ollama": "Politician",
+        "pennacchiotti_baseline": "Postsecondary Teachers"
+      }
+    },
+    {
+      "user_id": "260529993",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Public Relations"
+      }
+    },
+    {
+      "user_id": "15103898",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "16729561",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "255666549",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "716576919328841728",
+      "ground_truth": "Physical Scientists",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Physical Scientists",
+        "deepseek": "Physical Scientists",
+        "ollama": "Data Analyst/Scientist"
+      }
+    },
+    {
+      "user_id": "1904771",
+      "ground_truth": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+      "predictions": {
+        "openai": "Management Occupations",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "60664331",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Postsecondary Teachers",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "ollama": "Engineer"
+      }
+    },
+    {
+      "user_id": "211004186",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist",
+        "pennacchiotti_baseline": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "421251790",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Artist"
+      }
+    },
+    {
+      "user_id": "515322065",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Postsecondary Teachers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "137150858",
+      "ground_truth": "Business and Financial Operations Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "21457241",
+      "ground_truth": "Media and Communication Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "52309870",
+      "ground_truth": "Computer and Information Systems Managers",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Data Scientist",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "268130237",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Accommodation, Advertising, Marketing, Promotions, Public Relations, and Sales Managers"
+      }
+    },
+    {
+      "user_id": "15614135",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Media and Communication Occupations"
+      }
+    },
+    {
+      "user_id": "593386788",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Actors",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "352143631",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Public Relations"
+      }
+    },
+    {
+      "user_id": "2643656468",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "707187616249225216",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Management Occupations",
+        "gemini": "Top Executives",
+        "deepseek": "Top Executives",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "1002841207",
+      "ground_truth": "Physical Scientists",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Physical Scientists",
+        "deepseek": "Physical Scientists",
+        "ollama": "Scientist"
+      }
+    },
+    {
+      "user_id": "17575777",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Arts and Design Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Arts and Design Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "201751126",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Politician"
+      }
+    },
+    {
+      "user_id": "62916390",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "29193463",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Postsecondary Teachers",
+        "gemini": "Postsecondary Teachers",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "16157640",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Uncategorized"
+      }
+    },
+    {
+      "user_id": "34597615",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "705401185851805696",
+      "ground_truth": "Postsecondary Teachers",
+      "predictions": {
+        "openai": "Mathematical Science Occupations",
+        "gemini": "Mathematical Science Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Mathematician",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "33980139",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "109006566",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Top Executives"
+      }
+    },
+    {
+      "user_id": "3305994116",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Management Occupations",
+        "gemini": "Top Executives",
+        "deepseek": "Management Occupations",
+        "ollama": "Healthcare"
+      }
+    },
+    {
+      "user_id": "6147252",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "144259211",
+      "ground_truth": "Other Protective Service Workers",
+      "predictions": {
+        "openai": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+        "gemini": "Other Protective Service Workers",
+        "deepseek": "Firefighting and Prevention Workers",
+        "ollama": "Public Service"
+      }
+    },
+    {
+      "user_id": "228241061",
+      "ground_truth": "Social Science Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Scientific Research and Development Services",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Healthcare Technology"
+      }
+    },
+    {
+      "user_id": "164710380",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Sports and Related Workers"
+      }
+    },
+    {
+      "user_id": "27979212",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Information Systems Managers",
+        "gemini": "Computer Occupations",
+        "deepseek": "Computer and Information Systems Managers",
+        "ollama": "Software Engineer",
+        "pennacchiotti_baseline": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "205782791",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "1707937789",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Educational Instruction and Library Occupations",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Educational Instruction and Library Occupations",
+        "ollama": "Education",
+        "pennacchiotti_baseline": "Postsecondary Teachers"
+      }
+    },
+    {
+      "user_id": "14120402",
+      "ground_truth": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "DevOps"
+      }
+    },
+    {
+      "user_id": "80193497",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "14596583",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalists, News Analysts, and News Reporters"
+      }
+    },
+    {
+      "user_id": "711943898",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Top Executives"
+      }
+    },
+    {
+      "user_id": "16084074",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "1719628118",
+      "ground_truth": "Educational Instruction and Library Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "12389212",
+      "ground_truth": "Sales Representatives, Services",
+      "predictions": {
+        "openai": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "gemini": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Software Engineer"
+      }
+    },
+    {
+      "user_id": "15727192",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "3301254779",
+      "ground_truth": "Top Executives",
+      "predictions": {
+        "openai": "Management Occupations",
+        "gemini": "Top Executives",
+        "deepseek": "Management Occupations",
+        "ollama": "Engineering"
+      }
+    },
+    {
+      "user_id": "822030",
+      "ground_truth": "Arts and Design Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "12284932",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Social Scientists and Related Workers",
+        "deepseek": "Social Scientists and Related Workers",
+        "ollama": "Politics/Law",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "22149286",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "33581575",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "258299086",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "News Reporter",
+        "pennacchiotti_baseline": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "20798466",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "4877558602",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Information Systems Managers",
+        "deepseek": "Computer and Information Systems Managers",
+        "ollama": "Digital Transformation",
+        "pennacchiotti_baseline": "Postsecondary Teachers"
+      }
+    },
+    {
+      "user_id": "14096558",
+      "ground_truth": "Retail Sales Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "448028587",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "41645740",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Musician",
+        "pennacchiotti_baseline": "Educational Instruction and Library Occupations"
+      }
+    },
+    {
+      "user_id": "23707156",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Arts and Design Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Arts and Design Workers"
+      }
+    },
+    {
+      "user_id": "417164775",
+      "ground_truth": "Media and Communication Occupations",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "16389705",
+      "ground_truth": "Social Scientists and Related Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Computer Occupations"
+      }
+    },
+    {
+      "user_id": "780768327639502848",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Data Analyst"
+      }
+    },
+    {
+      "user_id": "793023",
+      "ground_truth": "Computer Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer Occupations",
+        "deepseek": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+        "ollama": "Software",
+        "pennacchiotti_baseline": "Media and Communication Workers"
+      }
+    },
+    {
+      "user_id": "13705452",
+      "ground_truth": "Legal Occupations",
+      "predictions": {
+        "openai": "Legal Occupations",
+        "gemini": "Computer Occupations",
+        "deepseek": "Computer and Information Systems Managers",
+        "ollama": "Legal Professional"
+      }
+    },
+    {
+      "user_id": "188313254",
+      "ground_truth": "Entertainers and Performers, Sports and Related Workers",
+      "predictions": {
+        "openai": "Entertainers and Performers, Sports and Related Workers",
+        "gemini": "Entertainers and Performers, Sports and Related Workers",
+        "deepseek": "Entertainers and Performers, Sports and Related Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    },
+    {
+      "user_id": "16143991",
+      "ground_truth": "Media and Communication Workers",
+      "predictions": {
+        "openai": "Media and Communication Workers",
+        "gemini": "Media and Communication Workers",
+        "deepseek": "Media and Communication Workers",
+        "ollama": "Entertainers and Performers"
+      }
+    }
+  ]
+}

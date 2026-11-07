@@ -1,0 +1,3935 @@
+{
+  "metrics": {
+    "openai": {
+      "accuracy": 0.7154046997389034,
+      "f1_score": 0.7507680893422624
+    },
+    "gemini": {
+      "accuracy": 0.762402088772846,
+      "f1_score": 0.7649835057758914
+    },
+    "deepseek": {
+      "accuracy": 0.6919060052219321,
+      "f1_score": 0.695339503607711
+    },
+    "ollama": {
+      "accuracy": 0.30548302872062666,
+      "f1_score": 0.36288315080062933
+    },
+    "pennacchiotti_baseline": {
+      "split": "80/20 random (no stratify)",
+      "accuracy": 0.4155844155844156,
+      "f1_score": 0.37749076320504893,
+      "balanced_accuracy": 0.21403508771929824
+    }
+  },
+  "results": [
+    {
+      "user_id": "257319231",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment",
+        "pennacchiotti_baseline": "Politics"
+      }
+    },
+    {
+      "user_id": "156677761",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "80492635",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "17921132",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Careers",
+        "deepseek": "Business and Finance",
+        "ollama": "Technology & Computing",
+        "pennacchiotti_baseline": "Politics"
+      }
+    },
+    {
+      "user_id": "23630545",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "24773565",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "75641981",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Technology & Computing",
+        "deepseek": "Communication",
+        "ollama": "Network"
+      }
+    },
+    {
+      "user_id": "617243",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Technology & Computing",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "2525695153",
+      "ground_truth": "Attractions",
+      "predictions": {
+        "openai": "Attractions",
+        "gemini": "Attractions",
+        "deepseek": "Home & Garden",
+        "ollama": "Food"
+      }
+    },
+    {
+      "user_id": "489872001",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "7120552",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Technology & Computing",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "32147945",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "1241737627",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "23699310",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "News"
+      }
+    },
+    {
+      "user_id": "42377905",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "790846916192002048",
+      "ground_truth": "Education",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Education",
+        "deepseek": "Education",
+        "ollama": "Education",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "109143439",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "14594608",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "35084170",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment",
+        "pennacchiotti_baseline": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "55750910",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "1846000920",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Data Analysis"
+      }
+    },
+    {
+      "user_id": "466884343",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "85647240",
+      "ground_truth": "Disasters",
+      "predictions": {
+        "openai": "Disasters",
+        "gemini": "Technology & Computing",
+        "deepseek": "Science",
+        "ollama": "Science",
+        "pennacchiotti_baseline": "Disasters"
+      }
+    },
+    {
+      "user_id": "377607917",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Marketing"
+      }
+    },
+    {
+      "user_id": "820440736336228352",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Artificial Intelligence"
+      }
+    },
+    {
+      "user_id": "105247925",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "16241389",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "7106252",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Science",
+        "ollama": "Computing"
+      }
+    },
+    {
+      "user_id": "185594976",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Books and Literature",
+        "gemini": "Technology & Computing",
+        "deepseek": "Books and Literature",
+        "ollama": "Books and Literature"
+      }
+    },
+    {
+      "user_id": "18669895",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "22207720",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "16893700",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Science",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "561722062",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "294471490",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "287407012",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "1561572876",
+      "ground_truth": "Pets",
+      "predictions": {
+        "openai": "Pets",
+        "gemini": "Pets",
+        "deepseek": "Pets",
+        "ollama": "Animals & Pets"
+      }
+    },
+    {
+      "user_id": "22514881",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Film"
+      }
+    },
+    {
+      "user_id": "718648514",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "787205",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "17099994",
+      "ground_truth": "Books and Literature",
+      "predictions": {
+        "openai": "Books and Literature",
+        "gemini": "Books and Literature",
+        "deepseek": "Books and Literature",
+        "ollama": "Books and Literature",
+        "pennacchiotti_baseline": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "322564915",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Environment/Sustainability"
+      }
+    },
+    {
+      "user_id": "872906797",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Film"
+      }
+    },
+    {
+      "user_id": "19157461",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "politics",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "165681512",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "banking"
+      }
+    },
+    {
+      "user_id": "1363397682",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "79918010",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "25533281",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "30982521",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "242844365",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Science",
+        "deepseek": "Pop Culture",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "348141153",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "89673430",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "16034084",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Politics",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "272114504",
+      "ground_truth": "Style & Fashion",
+      "predictions": {
+        "openai": "Style & Fashion",
+        "gemini": "Style & Fashion",
+        "deepseek": "Entertainment",
+        "ollama": "Fashion"
+      }
+    },
+    {
+      "user_id": "87751622",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "59660769",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "216466925",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "84873162",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "722214536460173312",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Machine Learning",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "301485075",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Digital Transformation"
+      }
+    },
+    {
+      "user_id": "22310284",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "94734906",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "1009631790",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "218283576",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "News",
+        "deepseek": "Communication",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "171019742",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "3123269567",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "16191100",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Attractions"
+      }
+    },
+    {
+      "user_id": "432574178",
+      "ground_truth": "Attractions",
+      "predictions": {
+        "openai": "Attractions",
+        "gemini": "Attractions",
+        "deepseek": "Attractions",
+        "ollama": "History"
+      }
+    },
+    {
+      "user_id": "15706260",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "2485761474",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "France"
+      }
+    },
+    {
+      "user_id": "1714371",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "67657364",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "65638162",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Computer Science"
+      }
+    },
+    {
+      "user_id": "170576651",
+      "ground_truth": "Automotive",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "50387337",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Hobbies & Interests",
+        "gemini": "Fine Art",
+        "deepseek": "Fine Art",
+        "ollama": "Fine Art",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "17824785",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "120098573",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Technology & Computing",
+        "deepseek": "Education",
+        "ollama": "Education"
+      }
+    },
+    {
+      "user_id": "748993",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "18238469",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "20607358",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Video Gaming",
+        "pennacchiotti_baseline": "Careers"
+      }
+    },
+    {
+      "user_id": "18346587",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "19046613",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "241280143",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "47263677",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Politics",
+        "deepseek": "Entertainment",
+        "ollama": "Sports",
+        "pennacchiotti_baseline": "Politics"
+      }
+    },
+    {
+      "user_id": "80871637",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Crime",
+        "gemini": "Crime",
+        "deepseek": "Crime",
+        "ollama": "News & Journalism"
+      }
+    },
+    {
+      "user_id": "3515085202",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment",
+        "pennacchiotti_baseline": "Crime"
+      }
+    },
+    {
+      "user_id": "2163237510",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Business and Finance",
+        "deepseek": "Entertainment",
+        "ollama": "World Cup"
+      }
+    },
+    {
+      "user_id": "869414732",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "1019707573",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "EU"
+      }
+    },
+    {
+      "user_id": "255370956",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Dance"
+      }
+    },
+    {
+      "user_id": "143981433",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Technology & Computing",
+        "deepseek": "Education",
+        "ollama": "books"
+      }
+    },
+    {
+      "user_id": "1483011734",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Crime",
+        "gemini": "Crime",
+        "deepseek": "Politics",
+        "ollama": "News/Media",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "121486521",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Television & Film"
+      }
+    },
+    {
+      "user_id": "15258638",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "344574163",
+      "ground_truth": "Fine Art",
+      "predictions": {
+        "openai": "Fine Art",
+        "gemini": "Fine Art",
+        "deepseek": "Entertainment",
+        "ollama": "Animals",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "1234092314",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "politics"
+      }
+    },
+    {
+      "user_id": "22258431",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Video Gaming",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "366711255",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "821690072",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Careers",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "233600911",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "31761791",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Banking"
+      }
+    },
+    {
+      "user_id": "213708813",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "263284019",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "36057442",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "187800861",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "14903097",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "69076672",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "53461892",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "561653641",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Politics",
+        "deepseek": "Business and Finance",
+        "ollama": "defence"
+      }
+    },
+    {
+      "user_id": "41298896",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "87914521",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "blockchain"
+      }
+    },
+    {
+      "user_id": "342089536",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics",
+        "pennacchiotti_baseline": "Politics"
+      }
+    },
+    {
+      "user_id": "23092340",
+      "ground_truth": "Careers",
+      "predictions": {
+        "openai": "Careers",
+        "gemini": "Careers",
+        "deepseek": "Business and Finance",
+        "ollama": "WomenInTech"
+      }
+    },
+    {
+      "user_id": "27920568",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Food & Drink",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "19178981",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "News/Politics",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "244249907",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "602126558",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "TV"
+      }
+    },
+    {
+      "user_id": "156148637",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Entertainment",
+        "pennacchiotti_baseline": "Careers"
+      }
+    },
+    {
+      "user_id": "1569899551",
+      "ground_truth": "Automotive",
+      "predictions": {
+        "openai": "Automotive",
+        "gemini": "Automotive",
+        "deepseek": "Automotive",
+        "ollama": "Transportstyrelsen"
+      }
+    },
+    {
+      "user_id": "308180314",
+      "ground_truth": "Travel",
+      "predictions": {
+        "openai": "Travel",
+        "gemini": "Travel",
+        "deepseek": "Travel",
+        "ollama": "Travel",
+        "pennacchiotti_baseline": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "142389870",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "366046157",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "51968169",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "10846402",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "1684237219",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Medical Health",
+        "deepseek": "Communication",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "94889299",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Travel",
+        "deepseek": "Sports",
+        "ollama": "Sports",
+        "pennacchiotti_baseline": "Sports"
+      }
+    },
+    {
+      "user_id": "37782134",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Video Gaming"
+      }
+    },
+    {
+      "user_id": "581448809",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Sports",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "100728306",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Education",
+        "deepseek": "Education",
+        "ollama": "Books and Literature"
+      }
+    },
+    {
+      "user_id": "14392797",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "407156211",
+      "ground_truth": "Education",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Education",
+        "deepseek": "Education",
+        "ollama": "Education"
+      }
+    },
+    {
+      "user_id": "43112998",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "14957670",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "2532878582",
+      "ground_truth": "Education",
+      "predictions": {
+        "openai": "Attractions",
+        "gemini": "Attractions",
+        "deepseek": "Attractions",
+        "ollama": "Attractions"
+      }
+    },
+    {
+      "user_id": "19688841",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Animation"
+      }
+    },
+    {
+      "user_id": "22234423",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "29130652",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "373526961",
+      "ground_truth": "Medical Health",
+      "predictions": {
+        "openai": "Medical Health",
+        "gemini": "Medical Health",
+        "deepseek": "Medical Health",
+        "ollama": "Health & Wellness"
+      }
+    },
+    {
+      "user_id": "42171991",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Technology & Computing",
+        "deepseek": "Science",
+        "ollama": "Data Science",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "10950002",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "208713501",
+      "ground_truth": "Attractions",
+      "predictions": {
+        "openai": "Attractions",
+        "gemini": "Attractions",
+        "deepseek": "Hobbies & Interests",
+        "ollama": "Museums & Galleries",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "5975712",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "2880157512",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Crime",
+        "gemini": "Crime",
+        "deepseek": "Communication",
+        "ollama": "News",
+        "pennacchiotti_baseline": "Politics"
+      }
+    },
+    {
+      "user_id": "6273392",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Politics",
+        "deepseek": "Pop Culture",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "24183416",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "1090259881",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Video Gaming",
+        "ollama": "Gaming"
+      }
+    },
+    {
+      "user_id": "24016682",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Sports",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "19034825",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Politics",
+        "ollama": "Disasters"
+      }
+    },
+    {
+      "user_id": "50810344",
+      "ground_truth": "Education",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Pop Culture",
+        "deepseek": "Education",
+        "ollama": "Academia & Research"
+      }
+    },
+    {
+      "user_id": "103413137",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Technology & Computing",
+        "deepseek": "Education",
+        "ollama": "Education"
+      }
+    },
+    {
+      "user_id": "626532418",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Broadway"
+      }
+    },
+    {
+      "user_id": "218265997",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Style & Fashion",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "47699335",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "5267",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Technology & Computing",
+        "deepseek": "Politics",
+        "ollama": "Technology",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "394122833",
+      "ground_truth": "Food & Drink",
+      "predictions": {
+        "openai": "Food & Drink",
+        "gemini": "Home & Garden",
+        "deepseek": "Food & Drink",
+        "ollama": "empoweryouth"
+      }
+    },
+    {
+      "user_id": "3278810940",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "516676054",
+      "ground_truth": "Disasters",
+      "predictions": {
+        "openai": "Disasters",
+        "gemini": "Disasters",
+        "deepseek": "Disasters",
+        "ollama": "PetPreparedness"
+      }
+    },
+    {
+      "user_id": "244881610",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "3527826676",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "133388615",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "50598703",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Politics",
+        "deepseek": "Books and Literature",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "17601206",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "54089989",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Journalism"
+      }
+    },
+    {
+      "user_id": "6607712",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "197463596",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Crime",
+        "gemini": "Crime",
+        "deepseek": "Crime",
+        "ollama": "Crime"
+      }
+    },
+    {
+      "user_id": "2922243262",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Law",
+        "gemini": "Law",
+        "deepseek": "Crime",
+        "ollama": "Crime"
+      }
+    },
+    {
+      "user_id": "150587813",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music & Arts"
+      }
+    },
+    {
+      "user_id": "342578839",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "11125672",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Politics",
+        "ollama": "Uncategorized",
+        "pennacchiotti_baseline": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "24507343",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Survivor"
+      }
+    },
+    {
+      "user_id": "38721656",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Entertainment",
+        "deepseek": "Sports",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "830421630",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "14329845",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "WWE"
+      }
+    },
+    {
+      "user_id": "24836750",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "25803229",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "News",
+        "deepseek": "Communication",
+        "ollama": "News & Media"
+      }
+    },
+    {
+      "user_id": "2485690568",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Inclusive Innovation"
+      }
+    },
+    {
+      "user_id": "23813151",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Fine Art",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "802660254",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Crime"
+      }
+    },
+    {
+      "user_id": "25074080",
+      "ground_truth": "Careers",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Books and Literature"
+      }
+    },
+    {
+      "user_id": "14638390",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "256627859",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "498525627",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music & Arts"
+      }
+    },
+    {
+      "user_id": "97210282",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics",
+        "pennacchiotti_baseline": "Disasters"
+      }
+    },
+    {
+      "user_id": "367169552",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Crime",
+        "gemini": "Crime",
+        "deepseek": "Law",
+        "ollama": "Uncategorized"
+      }
+    },
+    {
+      "user_id": "322965056",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "913479420",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "262404679",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Entertainment",
+        "ollama": "Video Gaming"
+      }
+    },
+    {
+      "user_id": "113507714",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Books and Literature"
+      }
+    },
+    {
+      "user_id": "188605723",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Travel",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "skiing"
+      }
+    },
+    {
+      "user_id": "6812252",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Crime",
+        "gemini": "Crime",
+        "deepseek": "News",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "361868777",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "870364054044520448",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "41841330",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Technology & Computing",
+        "deepseek": "Communication",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "3405410860",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Artificial Intelligence"
+      }
+    },
+    {
+      "user_id": "18847946",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "27262634",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "19789893",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Film",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "460724987",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "14254846",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Technology & Computing",
+        "deepseek": "Communication",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "803388384",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Crime",
+        "pennacchiotti_baseline": "Politics"
+      }
+    },
+    {
+      "user_id": "90198630",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "552129635",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Education",
+        "ollama": "Science Olympiad"
+      }
+    },
+    {
+      "user_id": "822858",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "43217839",
+      "ground_truth": "Books and Literature",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Politics",
+        "deepseek": "Entertainment",
+        "ollama": "Comics/Graphic Novels"
+      }
+    },
+    {
+      "user_id": "78684440",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "767595480",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Video Gaming",
+        "ollama": "Video Gaming"
+      }
+    },
+    {
+      "user_id": "257808866",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "15670825",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "18126916",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "24967833",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "News & Current Events"
+      }
+    },
+    {
+      "user_id": "6879522",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "353778765",
+      "ground_truth": "Attractions",
+      "predictions": {
+        "openai": "Attractions",
+        "gemini": "Attractions",
+        "deepseek": "Attractions",
+        "ollama": "Attractions",
+        "pennacchiotti_baseline": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "182524220",
+      "ground_truth": "Careers",
+      "predictions": {
+        "openai": "Careers",
+        "gemini": "Careers",
+        "deepseek": "Careers",
+        "ollama": "Future of Work"
+      }
+    },
+    {
+      "user_id": "14033572",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Technology & Computing",
+        "deepseek": "Business and Finance",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "863174924",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Video Gaming",
+        "ollama": "Esports"
+      }
+    },
+    {
+      "user_id": "1945245355",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Data"
+      }
+    },
+    {
+      "user_id": "41003348",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "9430302",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Technology & Computing",
+        "deepseek": "Sports",
+        "ollama": "Books and Literature"
+      }
+    },
+    {
+      "user_id": "20962380",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Technology & Computing",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "150717602",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Technology & Computing",
+        "deepseek": "Communication",
+        "ollama": "Media"
+      }
+    },
+    {
+      "user_id": "1170901",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Books and Literature"
+      }
+    },
+    {
+      "user_id": "22999437",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "1676430421",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Video Gaming",
+        "ollama": "Video Gaming"
+      }
+    },
+    {
+      "user_id": "36937588",
+      "ground_truth": "Books and Literature",
+      "predictions": {
+        "openai": "Books and Literature",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "194192756",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "1499417562",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Politics",
+        "deepseek": "Communication",
+        "ollama": "News"
+      }
+    },
+    {
+      "user_id": "466098978",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "63157272",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "18343801",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "331195438",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "131253959",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "266083428",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "455015129",
+      "ground_truth": "Attractions",
+      "predictions": {
+        "openai": "Attractions",
+        "gemini": "Attractions",
+        "deepseek": "History",
+        "ollama": "History",
+        "pennacchiotti_baseline": "Crime"
+      }
+    },
+    {
+      "user_id": "213547872",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "1894347926",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics",
+        "pennacchiotti_baseline": "Careers"
+      }
+    },
+    {
+      "user_id": "152972996",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "194122373",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "16805955",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Technology & Computing",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "14518475",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "347731735",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Style & Fashion",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "107007588",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Entertainment",
+        "ollama": "Technology"
+      }
+    },
+    {
+      "user_id": "247872134",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Technology & Computing",
+        "deepseek": "Sports",
+        "ollama": "Data Journalism"
+      }
+    },
+    {
+      "user_id": "2693267988",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Science",
+        "deepseek": "Education",
+        "ollama": "Research"
+      }
+    },
+    {
+      "user_id": "236479336",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Crime",
+        "gemini": "Crime",
+        "deepseek": "Crime",
+        "ollama": "Crime"
+      }
+    },
+    {
+      "user_id": "549124799",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "1742581",
+      "ground_truth": "Hobbies & Interests",
+      "predictions": {
+        "openai": "Fine Art",
+        "gemini": "Technology & Computing",
+        "deepseek": "Fine Art",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "55137824",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Careers",
+        "gemini": "Science",
+        "deepseek": "Technology & Computing",
+        "ollama": "Business and Finance",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "210803111",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "34247967",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Smart Cities",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "236622220",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Disasters",
+        "deepseek": "News",
+        "ollama": "News & Media"
+      }
+    },
+    {
+      "user_id": "54679779",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "21201403",
+      "ground_truth": "Careers",
+      "predictions": {
+        "openai": "Careers",
+        "gemini": "Careers",
+        "deepseek": "Careers",
+        "ollama": "Business and Finance",
+        "pennacchiotti_baseline": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "1962891",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "39125788",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Entrepreneurship"
+      }
+    },
+    {
+      "user_id": "217751484",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Disasters",
+        "deepseek": "Politics",
+        "ollama": "Houston"
+      }
+    },
+    {
+      "user_id": "33589345",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "37799209",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "15126852",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "90122464",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "15290966",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "3024546301",
+      "ground_truth": "Disasters",
+      "predictions": {
+        "openai": "Disasters",
+        "gemini": "Disasters",
+        "deepseek": "Disasters",
+        "ollama": "TrafficCollision"
+      }
+    },
+    {
+      "user_id": "140283622",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "115462071",
+      "ground_truth": "Home & Garden",
+      "predictions": {
+        "openai": "Hobbies & Interests",
+        "gemini": "Business and Finance",
+        "deepseek": "Home & Garden",
+        "ollama": "hobbies-and-games",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "1969265186",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Law",
+        "gemini": "Crime",
+        "deepseek": "Crime",
+        "ollama": "Law",
+        "pennacchiotti_baseline": "Crime"
+      }
+    },
+    {
+      "user_id": "781381",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "524559905",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Video Gaming",
+        "ollama": "Video Gaming"
+      }
+    },
+    {
+      "user_id": "2179748564",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "23806365",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "8309142",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Video Gaming",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "3001180319",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Publicidad",
+        "pennacchiotti_baseline": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "71604006",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "306937691",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Technology"
+      }
+    },
+    {
+      "user_id": "19783070",
+      "ground_truth": "Careers",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Communication",
+        "deepseek": "Communication",
+        "ollama": "Investigative Journalism"
+      }
+    },
+    {
+      "user_id": "247587991",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "327046834",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "187092357",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Pop Culture",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "22859097",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "2190601830",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Equal Rights"
+      }
+    },
+    {
+      "user_id": "209980556",
+      "ground_truth": "Medical Health",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Medical Health",
+        "ollama": "running"
+      }
+    },
+    {
+      "user_id": "9864482",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Politics",
+        "ollama": "Technology"
+      }
+    },
+    {
+      "user_id": "2618731",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Technology & Computing",
+        "deepseek": "Business and Finance",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "16007952",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "387158474",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "118229983",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Education"
+      }
+    },
+    {
+      "user_id": "11584302",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "226470791",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "27968412",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "44305009",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "557296751",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "40371780",
+      "ground_truth": "Crime",
+      "predictions": {
+        "openai": "Crime",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "632091735",
+      "ground_truth": "Careers",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Machine Learning"
+      }
+    },
+    {
+      "user_id": "415208626",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "46491252",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "1077238980",
+      "ground_truth": "Books and Literature",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Books and Literature",
+        "deepseek": "Entertainment",
+        "ollama": "Books and Literature"
+      }
+    },
+    {
+      "user_id": "17008394",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "28359290",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "14767656",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Business and Finance",
+        "deepseek": "Journalism",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "524354854",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Research"
+      }
+    },
+    {
+      "user_id": "2357562974",
+      "ground_truth": "Style & Fashion",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "1149559219",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "BigData"
+      }
+    },
+    {
+      "user_id": "96268540",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Science",
+        "pennacchiotti_baseline": "Law"
+      }
+    },
+    {
+      "user_id": "755239094",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "267803982",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Hobbies & Interests",
+        "gemini": "Hobbies & Interests",
+        "deepseek": "Hobbies & Interests",
+        "ollama": "bikepacking"
+      }
+    },
+    {
+      "user_id": "19054333",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "21362441",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "12423522",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "19593954",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "592055080",
+      "ground_truth": "Books and Literature",
+      "predictions": {
+        "openai": "Books and Literature",
+        "gemini": "Books and Literature",
+        "deepseek": "Books and Literature",
+        "ollama": "Books and Literature"
+      }
+    },
+    {
+      "user_id": "111417386",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Pop Culture",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "3068046988",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Technology & Computing",
+        "deepseek": "Science",
+        "ollama": "Robotics"
+      }
+    },
+    {
+      "user_id": "616219267",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Labor & Employment"
+      }
+    },
+    {
+      "user_id": "15659409",
+      "ground_truth": "Education",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Technology & Computing",
+        "deepseek": "Education",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "6637352",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Technology & Computing",
+        "deepseek": "Science",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "21067835",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Technology & Computing",
+        "deepseek": "Communication",
+        "ollama": "News/Politics"
+      }
+    },
+    {
+      "user_id": "35316765",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "108410287",
+      "ground_truth": "Disasters",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Medical Health",
+        "deepseek": "Communication",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "112879959",
+      "ground_truth": "Law",
+      "predictions": {
+        "openai": "Law",
+        "gemini": "Law",
+        "deepseek": "Law",
+        "ollama": "Law"
+      }
+    },
+    {
+      "user_id": "128769515",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music & Arts"
+      }
+    },
+    {
+      "user_id": "1477577485",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "nuclear power"
+      }
+    },
+    {
+      "user_id": "192986664",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "DataFin",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "260529993",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "News",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "15103898",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "16729561",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "255666549",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "716576919328841728",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Climate Change"
+      }
+    },
+    {
+      "user_id": "1904771",
+      "ground_truth": "Careers",
+      "predictions": {
+        "openai": "Careers",
+        "gemini": "Careers",
+        "deepseek": "Careers",
+        "ollama": "Communication",
+        "pennacchiotti_baseline": "Politics"
+      }
+    },
+    {
+      "user_id": "60664331",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Technology & Computing",
+        "deepseek": "Education",
+        "ollama": "Engineering"
+      }
+    },
+    {
+      "user_id": "211004186",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "421251790",
+      "ground_truth": "Fine Art",
+      "predictions": {
+        "openai": "Fine Art",
+        "gemini": "Fine Art",
+        "deepseek": "Fine Art",
+        "ollama": "Art"
+      }
+    },
+    {
+      "user_id": "515322065",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Artificial Intelligence"
+      }
+    },
+    {
+      "user_id": "137150858",
+      "ground_truth": "Style & Fashion",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "21457241",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "52309870",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "268130237",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Business and Finance",
+        "ollama": "Agriculture"
+      }
+    },
+    {
+      "user_id": "15614135",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Video Gaming",
+        "ollama": "Gaming"
+      }
+    },
+    {
+      "user_id": "593386788",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "352143631",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Politics",
+        "deepseek": "Entertainment",
+        "ollama": "News & Current Events"
+      }
+    },
+    {
+      "user_id": "2643656468",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "707187616249225216",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Business and Finance",
+        "gemini": "Business and Finance",
+        "deepseek": "Sports",
+        "ollama": "Insurance"
+      }
+    },
+    {
+      "user_id": "1002841207",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Earthquakes"
+      }
+    },
+    {
+      "user_id": "17575777",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "201751126",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "62916390",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "29193463",
+      "ground_truth": "Education",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Education",
+        "deepseek": "Education",
+        "ollama": "Academia"
+      }
+    },
+    {
+      "user_id": "16157640",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "34597615",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "705401185851805696",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Mathematics",
+        "pennacchiotti_baseline": "Science"
+      }
+    },
+    {
+      "user_id": "33980139",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "109006566",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "3305994116",
+      "ground_truth": "Business and Finance",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "IoT"
+      }
+    },
+    {
+      "user_id": "6147252",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "144259211",
+      "ground_truth": "Disasters",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Disasters",
+        "deepseek": "Disasters",
+        "ollama": "Disaster Response"
+      }
+    },
+    {
+      "user_id": "228241061",
+      "ground_truth": "Medical Health",
+      "predictions": {
+        "openai": "Medical Health",
+        "gemini": "Medical Health",
+        "deepseek": "Medical Health",
+        "ollama": "Health & Medical"
+      }
+    },
+    {
+      "user_id": "164710380",
+      "ground_truth": "Sports",
+      "predictions": {
+        "openai": "Sports",
+        "gemini": "Sports",
+        "deepseek": "Sports",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "27979212",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "AppSec",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "205782791",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "1707937789",
+      "ground_truth": "Education",
+      "predictions": {
+        "openai": "Education",
+        "gemini": "Education",
+        "deepseek": "Education",
+        "ollama": "Business and Finance",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "14120402",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "GameNight"
+      }
+    },
+    {
+      "user_id": "80193497",
+      "ground_truth": "Fine Art",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Fine Art",
+        "deepseek": "Pop Culture",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "14596583",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Communication",
+        "ollama": "Business and Finance"
+      }
+    },
+    {
+      "user_id": "711943898",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "16084074",
+      "ground_truth": "Video Gaming",
+      "predictions": {
+        "openai": "Video Gaming",
+        "gemini": "Video Gaming",
+        "deepseek": "Video Gaming",
+        "ollama": "Video Gaming"
+      }
+    },
+    {
+      "user_id": "1719628118",
+      "ground_truth": "Science",
+      "predictions": {
+        "openai": "Science",
+        "gemini": "Science",
+        "deepseek": "Science",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "12389212",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "NABShow"
+      }
+    },
+    {
+      "user_id": "15727192",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "3301254779",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Aerospace",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "822030",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "12284932",
+      "ground_truth": "Politics",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "politics",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "22149286",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Pop Culture",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "33581575",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Theatre"
+      }
+    },
+    {
+      "user_id": "258299086",
+      "ground_truth": "Communication",
+      "predictions": {
+        "openai": "Communication",
+        "gemini": "Communication",
+        "deepseek": "Communication",
+        "ollama": "News",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "20798466",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "4877558602",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Business and Finance",
+        "ollama": "DigitalTransformation",
+        "pennacchiotti_baseline": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "14096558",
+      "ground_truth": "Books and Literature",
+      "predictions": {
+        "openai": "Books and Literature",
+        "gemini": "Books and Literature",
+        "deepseek": "Books and Literature",
+        "ollama": "Literature"
+      }
+    },
+    {
+      "user_id": "448028587",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Politics",
+        "gemini": "Politics",
+        "deepseek": "Politics",
+        "ollama": "Politics"
+      }
+    },
+    {
+      "user_id": "41645740",
+      "ground_truth": "Pop Culture",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music",
+        "pennacchiotti_baseline": "Style & Fashion"
+      }
+    },
+    {
+      "user_id": "23707156",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "417164775",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Pop Culture"
+      }
+    },
+    {
+      "user_id": "16389705",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing"
+      }
+    },
+    {
+      "user_id": "780768327639502848",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Machine Learning"
+      }
+    },
+    {
+      "user_id": "793023",
+      "ground_truth": "Technology & Computing",
+      "predictions": {
+        "openai": "Technology & Computing",
+        "gemini": "Technology & Computing",
+        "deepseek": "Technology & Computing",
+        "ollama": "Technology & Computing",
+        "pennacchiotti_baseline": "Entertainment"
+      }
+    },
+    {
+      "user_id": "13705452",
+      "ground_truth": "Law",
+      "predictions": {
+        "openai": "Law",
+        "gemini": "Law",
+        "deepseek": "Law",
+        "ollama": "Legal"
+      }
+    },
+    {
+      "user_id": "188313254",
+      "ground_truth": "Entertainment",
+      "predictions": {
+        "openai": "Entertainment",
+        "gemini": "Entertainment",
+        "deepseek": "Entertainment",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "16143991",
+      "ground_truth": "Hobbies & Interests",
+      "predictions": {
+        "openai": "Pop Culture",
+        "gemini": "Pop Culture",
+        "deepseek": "Pop Culture",
+        "ollama": "Entertainment"
+      }
+    }
+  ]
+}

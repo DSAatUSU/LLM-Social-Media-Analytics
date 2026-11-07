@@ -1,0 +1,3936 @@
+{
+  "metrics": {
+    "openai": {
+      "accuracy": 0.6762402088772846,
+      "f1_score": 0.660194909355695
+    },
+    "gemini": {
+      "accuracy": 0.783289817232376,
+      "f1_score": 0.7661411349930468
+    },
+    "ollama": {
+      "accuracy": 0.3577023498694517,
+      "f1_score": 0.4329040168183049
+    },
+    "deepseek": {
+      "accuracy": 0.7127937336814621,
+      "f1_score": 0.6819260067930045
+    },
+    "twopics_baseline_occupation_L1": {
+      "split": "80/20 random",
+      "accuracy": 0.24675324675324675,
+      "f1_score": 0.2741702741702742,
+      "balanced_accuracy": 0.03838383838383838,
+      "note": "Michelson & Macskassy (2010) entity-based user profiling for Occupation L1, optimized with caching and parallelization"
+    }
+  },
+  "results": [
+    {
+      "user_id": "257319231",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "156677761",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "80492635",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist/News Anchor"
+      }
+    },
+    {
+      "user_id": "17921132",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Management Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Computer and Mathematical Occupations",
+        "twopics_baseline_occupation_L1": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "23630545",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "24773565",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "75641981",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Uncategorized"
+      }
+    },
+    {
+      "user_id": "617243",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "2525695153",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Engineer"
+      }
+    },
+    {
+      "user_id": "489872001",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "7120552",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "32147945",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1241737627",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "23699310",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "42377905",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Scientist"
+      }
+    },
+    {
+      "user_id": "790846916192002048",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "109143439",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "14594608",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "35084170",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "55750910",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "1846000920",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Data Scientist"
+      }
+    },
+    {
+      "user_id": "466884343",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "85647240",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Social Science",
+        "twopics_baseline_occupation_L1": "Protective Service Occupations"
+      }
+    },
+    {
+      "user_id": "377607917",
+      "ground_truth": "Sales and Related Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Management, Business, and Financial Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Marketing"
+      }
+    },
+    {
+      "user_id": "820440736336228352",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Business/Finance"
+      }
+    },
+    {
+      "user_id": "105247925",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "16241389",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "7106252",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Researcher"
+      }
+    },
+    {
+      "user_id": "185594976",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Education, Training, and Library Occupations"
+      }
+    },
+    {
+      "user_id": "18669895",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "22207720",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "16893700",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Computer and Mathematical Occupations",
+        "twopics_baseline_occupation_L1": "Management, Business, Science, and Arts Occupations"
+      }
+    },
+    {
+      "user_id": "561722062",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "294471490",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "287407012",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1561572876",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "22514881",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "718648514",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "787205",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "17099994",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations",
+        "twopics_baseline_occupation_L1": "Education, Training, and Library Occupations"
+      }
+    },
+    {
+      "user_id": "322564915",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Education"
+      }
+    },
+    {
+      "user_id": "872906797",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Film"
+      }
+    },
+    {
+      "user_id": "19157461",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist",
+        "twopics_baseline_occupation_L1": "Sales and Related Occupations"
+      }
+    },
+    {
+      "user_id": "165681512",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Legal Occupations",
+        "ollama": "Finance"
+      }
+    },
+    {
+      "user_id": "1363397682",
+      "ground_truth": "Production Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "79918010",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "25533281",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "30982521",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "242844365",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "348141153",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "89673430",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Management, Business, Science, and Arts Occupations",
+        "gemini": "Community and Social Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Student"
+      }
+    },
+    {
+      "user_id": "16034084",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "272114504",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "87751622",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainment Industry Professional"
+      }
+    },
+    {
+      "user_id": "59660769",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Legal Occupations",
+        "ollama": "Politician"
+      }
+    },
+    {
+      "user_id": "216466925",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Protective Service Occupations"
+      }
+    },
+    {
+      "user_id": "84873162",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Computer and Mathematical Occupations",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "722214536460173312",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Data Scientist",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "301485075",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Management Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Healthcare"
+      }
+    },
+    {
+      "user_id": "22310284",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "94734906",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1009631790",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "218283576",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Accommodation and Food Services"
+      }
+    },
+    {
+      "user_id": "171019742",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations",
+        "twopics_baseline_occupation_L1": "Management, Business, Science, and Arts Occupations"
+      }
+    },
+    {
+      "user_id": "3123269567",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Community and Social Service Occupations",
+        "gemini": "Community and Social Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Politician"
+      }
+    },
+    {
+      "user_id": "16191100",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Management, Business, Science, and Arts Occupations",
+        "gemini": "Management Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "432574178",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts Administrator/Museum Professional"
+      }
+    },
+    {
+      "user_id": "15706260",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "2485761474",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Community and Social Service Occupations",
+        "gemini": "Protective Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Diplomat"
+      }
+    },
+    {
+      "user_id": "1714371",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "67657364",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Legal Occupations"
+      }
+    },
+    {
+      "user_id": "65638162",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Researcher"
+      }
+    },
+    {
+      "user_id": "170576651",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "50387337",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "17824785",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "120098573",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "748993",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Education, Training, and Library Occupations"
+      }
+    },
+    {
+      "user_id": "18238469",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "20607358",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "18346587",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "19046613",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "241280143",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "47263677",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Protective Service Occupations"
+      }
+    },
+    {
+      "user_id": "80871637",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "3515085202",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "2163237510",
+      "ground_truth": "Sales and Office Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Creator"
+      }
+    },
+    {
+      "user_id": "869414732",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Academic/Researcher"
+      }
+    },
+    {
+      "user_id": "1019707573",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Legal Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Politician"
+      }
+    },
+    {
+      "user_id": "255370956",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainer"
+      }
+    },
+    {
+      "user_id": "143981433",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Professor/Lecturer"
+      }
+    },
+    {
+      "user_id": "1483011734",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, and Financial Occupations",
+        "twopics_baseline_occupation_L1": "Sales and Related Occupations"
+      }
+    },
+    {
+      "user_id": "121486521",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "15258638",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Healthcare Practitioners and Technical Occupations"
+      }
+    },
+    {
+      "user_id": "344574163",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "contemporarydivinities",
+        "twopics_baseline_occupation_L1": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "1234092314",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalism/Research"
+      }
+    },
+    {
+      "user_id": "22258431",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "366711255",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "821690072",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "233600911",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "31761791",
+      "ground_truth": "Office and Administrative Support Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Office and Administrative Support Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Customer Service Representative"
+      }
+    },
+    {
+      "user_id": "213708813",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "263284019",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "36057442",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Music"
+      }
+    },
+    {
+      "user_id": "187800861",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "14903097",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "69076672",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Scientist"
+      }
+    },
+    {
+      "user_id": "53461892",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "561653641",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Management Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Politician"
+      }
+    },
+    {
+      "user_id": "41298896",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "87914521",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Software Engineer"
+      }
+    },
+    {
+      "user_id": "342089536",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, and Financial Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "23092340",
+      "ground_truth": "Community and Social Service Occupations",
+      "predictions": {
+        "openai": "Management, Business, Science, and Arts Occupations",
+        "gemini": "Management, Business, and Financial Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "27920568",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "19178981",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "News Anchor/Host",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "244249907",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "602126558",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Celebrity"
+      }
+    },
+    {
+      "user_id": "156148637",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations",
+        "twopics_baseline_occupation_L1": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "1569899551",
+      "ground_truth": "Office and Administrative Support Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Protective Service Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "journalist"
+      }
+    },
+    {
+      "user_id": "308180314",
+      "ground_truth": "Accommodation and Food Services",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Accommodation and Food Services",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "142389870",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "366046157",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "51968169",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "10846402",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "1684237219",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "94889299",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "37782134",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "581448809",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "100728306",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Mathematics/Statistics"
+      }
+    },
+    {
+      "user_id": "14392797",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "407156211",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Education, Training, and Library Occupations"
+      }
+    },
+    {
+      "user_id": "43112998",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "14957670",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Management Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "2532878582",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "19688841",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "22234423",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "29130652",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "373526961",
+      "ground_truth": "Sales and Related Occupations",
+      "predictions": {
+        "openai": "Sales and Related Occupations",
+        "gemini": "Sales and Related Occupations",
+        "deepseek": "Sales and Related Occupations",
+        "ollama": "Healthcare"
+      }
+    },
+    {
+      "user_id": "42171991",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Researcher",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "10950002",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "208713501",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Museum/Heritage Worker",
+        "twopics_baseline_occupation_L1": "Protective Service Occupations"
+      }
+    },
+    {
+      "user_id": "5975712",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "2880157512",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist",
+        "twopics_baseline_occupation_L1": "Education, Training, and Library Occupations"
+      }
+    },
+    {
+      "user_id": "6273392",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "24183416",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "1090259881",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "24016682",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Management, Business, Science, and Arts Occupations"
+      }
+    },
+    {
+      "user_id": "19034825",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Uncategorized"
+      }
+    },
+    {
+      "user_id": "50810344",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Education, Training, and Library Occupations"
+      }
+    },
+    {
+      "user_id": "103413137",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Computer Science"
+      }
+    },
+    {
+      "user_id": "626532418",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Theatre"
+      }
+    },
+    {
+      "user_id": "218265997",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Sales and Related Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Sales and Related Occupations"
+      }
+    },
+    {
+      "user_id": "47699335",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "5267",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "394122833",
+      "ground_truth": "Community and Social Service Occupations",
+      "predictions": {
+        "openai": "Community and Social Service Occupations",
+        "gemini": "Community and Social Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Farmer"
+      }
+    },
+    {
+      "user_id": "3278810940",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "516676054",
+      "ground_truth": "Protective Service Occupations",
+      "predictions": {
+        "openai": "Community and Social Service Occupations",
+        "gemini": "Protective Service Occupations",
+        "deepseek": "Protective Service Occupations",
+        "ollama": "Emergency Management"
+      }
+    },
+    {
+      "user_id": "244881610",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "3527826676",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Sports"
+      }
+    },
+    {
+      "user_id": "133388615",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "50598703",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Editorial/Writer"
+      }
+    },
+    {
+      "user_id": "17601206",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "54089989",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Accommodation and Food Services"
+      }
+    },
+    {
+      "user_id": "6607712",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "197463596",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "2922243262",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Community and Social Service Occupations",
+        "gemini": "Community and Social Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Community and Social Service Occupations"
+      }
+    },
+    {
+      "user_id": "150587813",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts and Entertainment"
+      }
+    },
+    {
+      "user_id": "342578839",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "11125672",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, and Financial Occupations",
+        "twopics_baseline_occupation_L1": "Community and Social Service Occupations"
+      }
+    },
+    {
+      "user_id": "24507343",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "38721656",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "830421630",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "14329845",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Commentator"
+      }
+    },
+    {
+      "user_id": "24836750",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "25803229",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "2485690568",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Community and Social Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Government"
+      }
+    },
+    {
+      "user_id": "23813151",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "802660254",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations",
+        "twopics_baseline_occupation_L1": "Office and Administrative Support Occupations"
+      }
+    },
+    {
+      "user_id": "25074080",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "14638390",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "256627859",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "498525627",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "97210282",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Life, Physical, and Social Science Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "367169552",
+      "ground_truth": "Protective Service Occupations",
+      "predictions": {
+        "openai": "Protective Service Occupations",
+        "gemini": "Protective Service Occupations",
+        "deepseek": "Protective Service Occupations",
+        "ollama": "Law Enforcement"
+      }
+    },
+    {
+      "user_id": "322965056",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "913479420",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "262404679",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "113507714",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "188605723",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Athlete"
+      }
+    },
+    {
+      "user_id": "6812252",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "361868777",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "870364054044520448",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Science"
+      }
+    },
+    {
+      "user_id": "41841330",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "3405410860",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Management, Business, Science, and Arts Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Engineer"
+      }
+    },
+    {
+      "user_id": "18847946",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "27262634",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "19789893",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "460724987",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "14254846",
+      "ground_truth": "Community and Social Service Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "803388384",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "90198630",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "552129635",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Teacher"
+      }
+    },
+    {
+      "user_id": "822858",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "43217839",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalism"
+      }
+    },
+    {
+      "user_id": "78684440",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "767595480",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Gaming"
+      }
+    },
+    {
+      "user_id": "257808866",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Management, Business, and Financial Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Information Technology"
+      }
+    },
+    {
+      "user_id": "15670825",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "18126916",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "24967833",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Healthcare Practitioners and Technical Occupations"
+      }
+    },
+    {
+      "user_id": "6879522",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "353778765",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Museum/Heritage Worker",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "182524220",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Management, Business, Science, and Arts Occupations",
+        "gemini": "Management, Business, and Financial Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Technology"
+      }
+    },
+    {
+      "user_id": "14033572",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Information Technology"
+      }
+    },
+    {
+      "user_id": "863174924",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1945245355",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Professional, Scientific, and Technical Services",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "City Leaders"
+      }
+    },
+    {
+      "user_id": "41003348",
+      "ground_truth": "Sales and Related Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Accommodation and Food Services",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "9430302",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "20962380",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "150717602",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalism"
+      }
+    },
+    {
+      "user_id": "1170901",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, and Media"
+      }
+    },
+    {
+      "user_id": "22999437",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1676430421",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "36937588",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "194192756",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "1499417562",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "466098978",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports and Media Occupations",
+        "twopics_baseline_occupation_L1": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "63157272",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "18343801",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "331195438",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "131253959",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "266083428",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "455015129",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "213547872",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1894347926",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "152972996",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "194122373",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "16805955",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "14518475",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Management Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "347731735",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "107007588",
+      "ground_truth": "Management, Business, and Financial Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entrepreneur"
+      }
+    },
+    {
+      "user_id": "247872134",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "2693267988",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Researcher"
+      }
+    },
+    {
+      "user_id": "236479336",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "549124799",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1742581",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "55137824",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Science",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "210803111",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "34247967",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Designer",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "236622220",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "54679779",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Community and Social Service Occupations"
+      }
+    },
+    {
+      "user_id": "21201403",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Management Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Management, Business, and Financial Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1962891",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "39125788",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Management"
+      }
+    },
+    {
+      "user_id": "217751484",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Community and Social Service Occupations",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Urbanist"
+      }
+    },
+    {
+      "user_id": "33589345",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "37799209",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "15126852",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "90122464",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "15290966",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "3024546301",
+      "ground_truth": "Protective Service Occupations",
+      "predictions": {
+        "openai": "Protective Service Occupations",
+        "gemini": "Protective Service Occupations",
+        "deepseek": "Protective Service Occupations",
+        "ollama": "Firefighter"
+      }
+    },
+    {
+      "user_id": "140283622",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "115462071",
+      "ground_truth": "Sales and Related Occupations",
+      "predictions": {
+        "openai": "Sales and Related Occupations",
+        "gemini": "Sales and Related Occupations",
+        "deepseek": "Sales and Related Occupations",
+        "ollama": "Accommodation and Food Services",
+        "twopics_baseline_occupation_L1": "Protective Service Occupations"
+      }
+    },
+    {
+      "user_id": "1969265186",
+      "ground_truth": "Protective Service Occupations",
+      "predictions": {
+        "openai": "Protective Service Occupations",
+        "gemini": "Protective Service Occupations",
+        "deepseek": "Protective Service Occupations",
+        "ollama": "Law Enforcement and Public Safety Occupations",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "781381",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "524559905",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "2179748564",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "23806365",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "8309142",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "3001180319",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Management, Business, and Financial Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Publicidad",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "71604006",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "306937691",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Content Creator"
+      }
+    },
+    {
+      "user_id": "19783070",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "247587991",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "327046834",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Management, Business, and Financial Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "187092357",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalism"
+      }
+    },
+    {
+      "user_id": "22859097",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "2190601830",
+      "ground_truth": "Community and Social Service Occupations",
+      "predictions": {
+        "openai": "Community and Social Service Occupations",
+        "gemini": "Community and Social Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Politician"
+      }
+    },
+    {
+      "user_id": "209980556",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Management Occupations",
+        "deepseek": "Healthcare Practitioners and Technical Occupations",
+        "ollama": "Healthcare"
+      }
+    },
+    {
+      "user_id": "9864482",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Computer"
+      }
+    },
+    {
+      "user_id": "2618731",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Marketing Research"
+      }
+    },
+    {
+      "user_id": "16007952",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "387158474",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "118229983",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "11584302",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Celebrity",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "226470791",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "27968412",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "44305009",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainer"
+      }
+    },
+    {
+      "user_id": "557296751",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "40371780",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "police officer"
+      }
+    },
+    {
+      "user_id": "632091735",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Information Technology"
+      }
+    },
+    {
+      "user_id": "415208626",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Healthcare Practitioners and Technical Occupations"
+      }
+    },
+    {
+      "user_id": "46491252",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainment"
+      }
+    },
+    {
+      "user_id": "1077238980",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, and Media"
+      }
+    },
+    {
+      "user_id": "17008394",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "28359290",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "14767656",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "524354854",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Scientist"
+      }
+    },
+    {
+      "user_id": "2357562974",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1149559219",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Data Scientist"
+      }
+    },
+    {
+      "user_id": "96268540",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "755239094",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Life, Physical, and Social Science Occupations"
+      }
+    },
+    {
+      "user_id": "267803982",
+      "ground_truth": "Sales and Related Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Cyclist"
+      }
+    },
+    {
+      "user_id": "19054333",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "21362441",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "12423522",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "19593954",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "592055080",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "111417386",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Management Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Business",
+        "twopics_baseline_occupation_L1": "Computer and Mathematical Occupations"
+      }
+    },
+    {
+      "user_id": "3068046988",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Researcher"
+      }
+    },
+    {
+      "user_id": "616219267",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Community and Social Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "15659409",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Education, Training, and Library Occupations"
+      }
+    },
+    {
+      "user_id": "6637352",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Engineer"
+      }
+    },
+    {
+      "user_id": "21067835",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "35316765",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media"
+      }
+    },
+    {
+      "user_id": "108410287",
+      "ground_truth": "Healthcare Practitioners and Technical Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Community and Social Service Occupations",
+        "deepseek": "Protective Service Occupations",
+        "ollama": "Healthcare Professionals"
+      }
+    },
+    {
+      "user_id": "112879959",
+      "ground_truth": "Legal Occupations",
+      "predictions": {
+        "openai": "Legal Occupations",
+        "gemini": "Legal Occupations",
+        "deepseek": "Legal Occupations",
+        "ollama": "Government"
+      }
+    },
+    {
+      "user_id": "128769515",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "1477577485",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Management, Business, Science, and Arts Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Nuclear Engineer"
+      }
+    },
+    {
+      "user_id": "192986664",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Legal Occupations",
+        "deepseek": "Legal Occupations",
+        "ollama": "Politician",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "260529993",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "15103898",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "16729561",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, Science, and Arts Occupations"
+      }
+    },
+    {
+      "user_id": "255666549",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "716576919328841728",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Scientist"
+      }
+    },
+    {
+      "user_id": "1904771",
+      "ground_truth": "Community and Social Service Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Management Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Professional, Scientific, and Technical Services",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "60664331",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Engineering"
+      }
+    },
+    {
+      "user_id": "211004186",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Journalist",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "421251790",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Artist"
+      }
+    },
+    {
+      "user_id": "515322065",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Journalist"
+      }
+    },
+    {
+      "user_id": "137150858",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "21457241",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "52309870",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Computer and Mathematical Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "268130237",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Agriculture, Forestry, Fishing and Hunting Occupations",
+        "ollama": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "15614135",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "593386788",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Entertainer",
+        "twopics_baseline_occupation_L1": "Management, Business, Science, and Arts Occupations"
+      }
+    },
+    {
+      "user_id": "352143631",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "2643656468",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "707187616249225216",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Management Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "1002841207",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Life, Physical, and Social Science Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Scientist"
+      }
+    },
+    {
+      "user_id": "17575777",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "201751126",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Scientist"
+      }
+    },
+    {
+      "user_id": "62916390",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "29193463",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Education, Training, and Library Occupations"
+      }
+    },
+    {
+      "user_id": "16157640",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "34597615",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "705401185851805696",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Life, Physical, and Social Science Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Life, Physical, and Social Science Occupations",
+        "ollama": "Mathematician",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "33980139",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "109006566",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "3305994116",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Management Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Engineering"
+      }
+    },
+    {
+      "user_id": "6147252",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "144259211",
+      "ground_truth": "Protective Service Occupations",
+      "predictions": {
+        "openai": "Community and Social Service Occupations",
+        "gemini": "Protective Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "Emergency Management"
+      }
+    },
+    {
+      "user_id": "228241061",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Healthcare Practitioners and Technical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Healthcare Practitioners and Technical Occupations",
+        "ollama": "Healthcare Practitioners and Technical Occupations"
+      }
+    },
+    {
+      "user_id": "164710380",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "27979212",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Cybersecurity",
+        "twopics_baseline_occupation_L1": "Management, Business, and Financial Occupations"
+      }
+    },
+    {
+      "user_id": "205782791",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1707937789",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Education, Training, and Library Occupations",
+        "twopics_baseline_occupation_L1": "Management Occupations"
+      }
+    },
+    {
+      "user_id": "14120402",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Software Engineer"
+      }
+    },
+    {
+      "user_id": "80193497",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "14596583",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "711943898",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "16084074",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "1719628118",
+      "ground_truth": "Education, Training, and Library Occupations",
+      "predictions": {
+        "openai": "Education, Training, and Library Occupations",
+        "gemini": "Education, Training, and Library Occupations",
+        "deepseek": "Education, Training, and Library Occupations",
+        "ollama": "Education"
+      }
+    },
+    {
+      "user_id": "12389212",
+      "ground_truth": "Sales and Related Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Software Engineer"
+      }
+    },
+    {
+      "user_id": "15727192",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician"
+      }
+    },
+    {
+      "user_id": "3301254779",
+      "ground_truth": "Management Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Management Occupations",
+        "deepseek": "Management, Business, and Financial Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "822030",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "12284932",
+      "ground_truth": "Management, Business, Science, and Arts Occupations",
+      "predictions": {
+        "openai": "Community and Social Service Occupations",
+        "gemini": "Community and Social Service Occupations",
+        "deepseek": "Community and Social Service Occupations",
+        "ollama": "activist",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "22149286",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "33581575",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "258299086",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "20798466",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "4877558602",
+      "ground_truth": "Professional and Related Occupations",
+      "predictions": {
+        "openai": "Professional, Scientific, and Technical Services",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Professional, Scientific, and Technical Services",
+        "ollama": "Digital Transformation",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "14096558",
+      "ground_truth": "Sales and Related Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "448028587",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "41645740",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Musician",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "23707156",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "417164775",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "16389705",
+      "ground_truth": "Life, Physical, and Social Science Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    },
+    {
+      "user_id": "780768327639502848",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Computer and Mathematical Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Data Scientist"
+      }
+    },
+    {
+      "user_id": "793023",
+      "ground_truth": "Computer and Mathematical Occupations",
+      "predictions": {
+        "openai": "Management, Business, and Financial Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Computer and Mathematical Occupations",
+        "ollama": "Computer and Mathematical Occupations",
+        "twopics_baseline_occupation_L1": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "13705452",
+      "ground_truth": "Professional, Scientific, and Technical Services",
+      "predictions": {
+        "openai": "Legal Occupations",
+        "gemini": "Computer and Mathematical Occupations",
+        "deepseek": "Legal Occupations",
+        "ollama": "lawyer"
+      }
+    },
+    {
+      "user_id": "188313254",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Arts, Design, Entertainment, Sports, and Media Occupations"
+      }
+    },
+    {
+      "user_id": "16143991",
+      "ground_truth": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "predictions": {
+        "openai": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "gemini": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "deepseek": "Arts, Design, Entertainment, Sports, and Media Occupations",
+        "ollama": "Professional, Scientific, and Technical Services"
+      }
+    }
+  ]
+}

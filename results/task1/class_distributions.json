@@ -1,0 +1,62 @@
+{
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'random', 'user_sampling_method': 'random'}": {
+        "class_0": 1000,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'random', 'user_sampling_method': 'top_active'}": {
+        "class_0": 988,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'random', 'user_sampling_method': 'recent_activity'}": {
+        "class_0": 968,
+        "class_1": 980
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'similar_topics', 'user_sampling_method': 'random'}": {
+        "class_0": 980,
+        "class_1": 980
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'similar_topics', 'user_sampling_method': 'top_active'}": {
+        "class_0": 988,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'similar_topics', 'user_sampling_method': 'recent_activity'}": {
+        "class_0": 988,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'followees', 'user_sampling_method': 'random'}": {
+        "class_0": 787,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'followees', 'user_sampling_method': 'top_active'}": {
+        "class_0": 268,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'followees', 'user_sampling_method': 'recent_activity'}": {
+        "class_0": 268,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'followers', 'user_sampling_method': 'random'}": {
+        "class_0": 581,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'followers', 'user_sampling_method': 'top_active'}": {
+        "class_0": 257,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'followers', 'user_sampling_method': 'recent_activity'}": {
+        "class_0": 257,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'both', 'user_sampling_method': 'random'}": {
+        "class_0": 474,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'both', 'user_sampling_method': 'top_active'}": {
+        "class_0": 189,
+        "class_1": 1000
+    },
+    "{'K': 20, 'M1': 20, 'M2': 20, 'desired_users': 50, 'other_tweets_sampling_method': 'both', 'user_sampling_method': 'recent_activity'}": {
+        "class_0": 189,
+        "class_1": 1000
+    }
+}

@@ -1,0 +1,36 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+openpyxl>=3.1
+pyarrow>=14.0            # parquet files of the unseen-data (2024+) evaluation
+tqdm>=4.66
+emoji>=2.8
+requests>=2.31
+matplotlib>=3.7
+seaborn>=0.13
+
+# LLM APIs
+openai>=1.0              # GPT-4 / GPT-4o / GPT-3.5-Turbo (incl. Batch API) and the DeepSeek-V3 endpoint
+google-generativeai>=0.7 # Gemini 1.5 Pro
+ollama>=0.3              # Llama 3.2 through a local Ollama server
+
+# Encoders / evaluation
+torch>=2.1
+transformers>=4.40       # BERT, GPT-2 (perplexity), BART, T5
+sentence-transformers>=2.7
+nltk>=3.8
+rouge-score>=0.1.2
+imbalanced-learn>=0.12   # SMOTE / RandomOverSampler used by several baselines
+
+# Task II baselines
+markovify>=0.9.4
+
+# Task III baselines
+gensim>=4.3              # Word2Vec for the Gaussian-Process baseline
+SPARQLWrapper>=2.0       # DBpedia lookups for the entity-based (TwoPics) baseline
+
+# Optional - only needed for specific baselines
+# tensorflow>=2.15 ; tensorflow_hub ; tensorflow_text   -> USE cosine baseline and the Siamese GloVe/SBERT baselines (Task I)
+# faststylometry                                        -> task1_authorship_verification/baselines/extras/stylometry_baseline.py

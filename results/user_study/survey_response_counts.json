@@ -1,0 +1,41 @@
+{
+  "question": "Could this post have been written by you?",
+  "scale": [
+    "Definitely me",
+    "Probably me",
+    "Unsure",
+    "Probably not",
+    "Definitely not me"
+  ],
+  "responses": {
+    "DeepSeek": [
+      21,
+      18,
+      7,
+      9,
+      5
+    ],
+    "Gemini 1.5 Pro": [
+      27,
+      17,
+      6,
+      6,
+      4
+    ],
+    "GPT-4o": [
+      21,
+      20,
+      5,
+      6,
+      8
+    ],
+    "Llama 3.2": [
+      23,
+      21,
+      8,
+      6,
+      2
+    ]
+  },
+  "note": "Participant identities, handles, tweets and generated posts shown to participants are not released."
+}
