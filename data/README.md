@@ -4,7 +4,7 @@
 
 | | Included? | Why |
 |---|---|---|
-| Twitter/X dataset (users, posts, follower graphs) | **No** | Post text cannot be redistributed under the X developer policy. The dataset is described and cited in the paper (Kheiri et al., *An analysis of the dynamics of ties on Twitter*, IEEE BigData 2023; Farokhi et al., *EdgeUp*, 2025): 15 weekly snapshots, 123,829 users, 2.9M ties, ≈1.18M new posts per week. Contact the authors for access. |
+| Twitter/X dataset (users, posts, follower graphs) | **No** | Post text cannot be redistributed under the X developer policy. The dataset is cited in the paper. |
 | 2024+ posts of the 50 users of the unseen-data evaluation | **No** | Collected with the official X API v2 user-timeline endpoint; same policy. |
 | Task I sampled datasets (`dataset_*.json`) and per-post predictions | **No** | They contain post text. Aggregate metrics for all 15 settings are in `../results/task1/`. |
 | `vapor_user_annotations.json` | **Yes** | Our manual annotations of the 383 VAPOR users (user ID + occupation L1–L4 + interests/hobbies). No posts, names or bios. |

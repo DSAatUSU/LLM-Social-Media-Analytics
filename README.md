@@ -78,7 +78,7 @@ python scripts/stats_tests.py
 
 ## Data policy (short version)
 
-* Post text is never redistributed (X/Twitter developer policy). The dataset is cited in the paper (Kheiri et al., "An analysis of the dynamics of ties on Twitter", IEEE BigData 2023; Farokhi et al., "EdgeUp", 2025); please contact the authors for access.
+* Post text is never redistributed (X/Twitter developer policy). The dataset is cited in the paper.
 * The 2024+ posts used for the unseen-data evaluation were collected with the official X API v2 user-timeline endpoint and are likewise not included.
 * `data/vapor_user_annotations.json` releases only user IDs with the annotated occupation / interest labels.
 * The user study released nothing but aggregate response counts (`results/user_study/`); participants' handles, posts and generated posts are not included.
