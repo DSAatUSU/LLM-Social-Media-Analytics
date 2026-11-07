@@ -76,7 +76,9 @@ The numbers reported in the paper can be regenerated from `results/` without any
 python scripts/stats_tests.py
 ```
 
-## Data policy (short version)
+## Data policy
+
+Full details: [`data/README.md`](data/README.md).
 
 * Post text is never redistributed (X/Twitter developer policy). The dataset is cited in the paper.
 * The 2024+ posts used for the unseen-data evaluation were collected with the official X API v2 user-timeline endpoint and are likewise not included.
